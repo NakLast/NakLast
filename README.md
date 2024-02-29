@@ -38,11 +38,6 @@
 ### :fire: My stats :
 
 <!--START_SECTION:waka-->
-
-```txt
-NakLa/NakLast
-```
-
 <!--END_SECTION:waka-->
 
 <!--
