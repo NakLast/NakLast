@@ -39,16 +39,16 @@
   <summary>:fire: My stats :</summary>
   
   <!--START_SECTION:waka-->
-  
-  ```txt
-  From: 28 February 2024 - To: 28 February 2024
-  
-  Total Time: 0 secs
-  
-  No activity tracked
-  ```
-  
-  <!--END_SECTION:waka-->
+
+```txt
+From: 28 February 2023 - To: 28 February 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </details>
 
 
