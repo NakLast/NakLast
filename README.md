@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+NakLa/NakLast
 ```
 
 <!--END_SECTION:waka-->
