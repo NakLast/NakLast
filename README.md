@@ -35,19 +35,22 @@
 
 ---
 
-### :fire: My stats :
+<details>
+  <summary>:fire: My stats :</summary>
+  
+  <!--START_SECTION:waka-->
+  
+  ```txt
+  From: 28 February 2024 - To: 28 February 2024
+  
+  Total Time: 0 secs
+  
+  No activity tracked
+  ```
+  
+  <!--END_SECTION:waka-->
+</details>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 February 2024 - To: 28 February 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <!--
 **NakLast/NakLast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
