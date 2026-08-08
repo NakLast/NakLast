@@ -18,11 +18,12 @@ README_FILE = os.path.join(
 BLOCKS = "░▒▓█"
 BAR_LENGTH = 25
 LANG_COUNT = int(os.environ.get("LANG_COUNT", "10"))
-IGNORED_LANGUAGES = {
-    x.strip().lower()
-    for x in os.environ.get("IGNORED_LANGUAGES", "json,toml").split(",")
-    if x.strip()
-}
+# IGNORED_LANGUAGES = {
+#     x.strip().lower()
+#     for x in os.environ.get("IGNORED_LANGUAGES", "json,toml").split(",")
+#     if x.strip()
+# }
+IGNORED_LANGUAGES = ["json", "toml"]
 
 
 def import_raw_dump(data, filepath):
