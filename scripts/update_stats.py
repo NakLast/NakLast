@@ -5,16 +5,24 @@ import glob
 import json
 import os
 import re
-import sys
 import urllib.error
-import urllib.parse
 import urllib.request
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
+DATA_DIR = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"
+)
 DATA_FILE = os.path.join(DATA_DIR, "wakatime.json")
-README_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "README.md")
-BLOCKS = "⣀⣄⣤⣦⣶⣷⣿"
+README_FILE = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "README.md"
+)
+BLOCKS = "░▒▓█"
 BAR_LENGTH = 25
+LANG_COUNT = int(os.environ.get("LANG_COUNT", "10"))
+IGNORED_LANGUAGES = {
+    x.strip().lower()
+    for x in os.environ.get("IGNORED_LANGUAGES", "json,toml").split(",")
+    if x.strip()
+}
 
 
 def import_raw_dump(data, filepath):
@@ -46,7 +54,7 @@ def import_raw_dump(data, filepath):
 
             daily_history[date_str] = {
                 "grand_total_seconds": grand_total,
-                "languages": langs
+                "languages": langs,
             }
             imported_count += 1
 
@@ -58,7 +66,9 @@ def import_raw_dump(data, filepath):
         data.pop("base_seconds", None)
         data.pop("base_total_seconds", None)
 
-        print(f"Successfully imported {imported_count} days of history (Earliest: {data.get('start_date')}).")
+        print(
+            f"Successfully imported {imported_count} days of history (Earliest: {data.get('start_date')})."
+        )
         return True
     except Exception as e:
         print(f"Error importing {filepath}: {e}")
@@ -78,7 +88,9 @@ def load_data():
         data = {
             "start_date": "2024-02-29",
             "daily_history": {},
-            "last_updated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+            "last_updated": datetime.datetime.now(datetime.timezone.utc).strftime(
+                "%Y-%m-%d"
+            ),
         }
 
     # Check for any raw export dumps to auto-import
@@ -98,7 +110,9 @@ def save_data(data):
 
 def fetch_wakatime_summaries(api_key):
     if not api_key:
-        print("No WAKATIME_API_KEY provided; skipping API fetch and using local accumulated data.")
+        print(
+            "No WAKATIME_API_KEY provided; skipping API fetch and using local accumulated data."
+        )
         return []
 
     today = datetime.datetime.now(datetime.timezone.utc).date()
@@ -111,7 +125,7 @@ def fetch_wakatime_summaries(api_key):
 
     headers = {
         "User-Agent": "WakaTime-Stats-Updater/1.0",
-        "Authorization": f"Basic {base64.b64encode(api_key.encode('utf-8')).decode('utf-8')}"
+        "Authorization": f"Basic {base64.b64encode(api_key.encode('utf-8')).decode('utf-8')}",
     }
 
     try:
@@ -151,16 +165,22 @@ def update_data_with_summaries(data, summaries):
 
         daily_history[date_str] = {
             "grand_total_seconds": grand_total,
-            "languages": languages
+            "languages": languages,
         }
 
-    data["last_updated"] = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+    data["last_updated"] = datetime.datetime.now(datetime.timezone.utc).strftime(
+        "%Y-%m-%d"
+    )
 
 
 def compute_metrics(data):
     daily_history = data.get("daily_history", {})
     base_seconds = data.get("base_seconds", {}) if not daily_history else {}
-    base_total = data.get("base_total_seconds", sum(base_seconds.values())) if not daily_history else 0
+    base_total = (
+        data.get("base_total_seconds", sum(base_seconds.values()))
+        if not daily_history
+        else 0
+    )
 
     # Language totals
     lang_totals = dict(base_seconds)
@@ -169,7 +189,9 @@ def compute_metrics(data):
             lang_totals[lang] = lang_totals.get(lang, 0) + secs
 
     # Overall total seconds
-    daily_total = sum(day_data.get("grand_total_seconds", 0) for day_data in daily_history.values())
+    daily_total = sum(
+        day_data.get("grand_total_seconds", 0) for day_data in daily_history.values()
+    )
     overall_total_seconds = base_total + daily_total
 
     sum_lang_totals = sum(lang_totals.values())
@@ -198,7 +220,9 @@ def generate_stats_markdown(data):
     lang_totals, overall_total_seconds = compute_metrics(data)
 
     all_dates = sorted(data.get("daily_history", {}).keys())
-    start_date_str = data.get("start_date") or (all_dates[0] if all_dates else "2024-02-29")
+    start_date_str = data.get("start_date") or (
+        all_dates[0] if all_dates else "2024-02-29"
+    )
     try:
         start_date_obj = datetime.datetime.strptime(start_date_str, "%Y-%m-%d")
         formatted_start = start_date_obj.strftime("%d %B %Y")
@@ -211,10 +235,14 @@ def generate_stats_markdown(data):
     total_hrs = int(overall_total_seconds // 3600)
     total_mins = int((overall_total_seconds % 3600) // 60)
 
-    # Sort languages by time descending
-    sorted_langs = sorted(lang_totals.items(), key=lambda x: x[1], reverse=True)
-    # Take top languages
-    top_langs = [item for item in sorted_langs if item[1] > 0][:5]
+    # Filter out ignored languages and sort by time descending
+    filtered_langs = {
+        lang: secs
+        for lang, secs in lang_totals.items()
+        if lang.strip().lower() not in IGNORED_LANGUAGES and secs > 0
+    }
+    sorted_langs = sorted(filtered_langs.items(), key=lambda x: x[1], reverse=True)
+    top_langs = sorted_langs[:LANG_COUNT]
 
     lines = []
     lines.append("```txt")
@@ -224,7 +252,9 @@ def generate_stats_markdown(data):
     lines.append("")
 
     for lang, secs in top_langs:
-        pct = (secs / overall_total_seconds * 100.0) if overall_total_seconds > 0 else 0.0
+        pct = (
+            (secs / overall_total_seconds * 100.0) if overall_total_seconds > 0 else 0.0
+        )
         hrs = int(secs // 3600)
         mins = int((secs % 3600) // 60)
         time_str = f"{hrs:,} hrs {mins:02d} mins"
