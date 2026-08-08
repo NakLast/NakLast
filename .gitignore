@@ -1,0 +1,2 @@
+# Ignore large raw dump files from WakaTime exports
+data/wakatime-*.json

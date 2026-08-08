@@ -1,0 +1,5698 @@
+{
+  "start_date": "2024-02-29",
+  "daily_history": {
+    "2024-02-29": {
+      "grand_total_seconds": 1440.528778,
+      "languages": {
+        "TypeScript": 1440.528778
+      }
+    },
+    "2024-03-01": {
+      "grand_total_seconds": 25480.963943,
+      "languages": {
+        "TypeScript": 24392.212002,
+        "SCSS": 1088.751941
+      }
+    },
+    "2024-03-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-09": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-11": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-20": {
+      "grand_total_seconds": 4182.752,
+      "languages": {
+        "TypeScript": 4182.752
+      }
+    },
+    "2024-03-21": {
+      "grand_total_seconds": 15759.245311,
+      "languages": {
+        "TypeScript": 14867.581641,
+        "JSON": 822.091733,
+        "SCSS": 69.571937
+      }
+    },
+    "2024-03-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-23": {
+      "grand_total_seconds": 22617.982582,
+      "languages": {
+        "TypeScript": 13564.958763,
+        "EJS": 4164.518099,
+        "JavaScript": 3978.086055,
+        "SCSS": 789.583777,
+        "Other": 73.892252,
+        "JSON": 46.943636
+      }
+    },
+    "2024-03-24": {
+      "grand_total_seconds": 10871.515895,
+      "languages": {
+        "JavaScript": 4434.29651,
+        "EJS": 3733.52005,
+        "HTML": 2703.699335
+      }
+    },
+    "2024-03-25": {
+      "grand_total_seconds": 5287.586026,
+      "languages": {
+        "TypeScript": 5138.639773,
+        "SCSS": 148.946253
+      }
+    },
+    "2024-03-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-27": {
+      "grand_total_seconds": 483.883348,
+      "languages": {
+        "JavaScript": 332.818342,
+        "YAML": 129.261438,
+        "EJS": 15.122282,
+        "Bash": 6.681286
+      }
+    },
+    "2024-03-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-03-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-01": {
+      "grand_total_seconds": 16090.064051,
+      "languages": {
+        "TypeScript": 16090.064051
+      }
+    },
+    "2024-04-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-08": {
+      "grand_total_seconds": 11638.583697,
+      "languages": {
+        "TypeScript": 11638.583697
+      }
+    },
+    "2024-04-09": {
+      "grand_total_seconds": 11050.702633,
+      "languages": {
+        "TypeScript": 10796.065,
+        "Other": 254.637633
+      }
+    },
+    "2024-04-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-11": {
+      "grand_total_seconds": 2050.74611,
+      "languages": {
+        "TypeScript": 1292.190586,
+        "Other": 758.555524
+      }
+    },
+    "2024-04-12": {
+      "grand_total_seconds": 4550.702656,
+      "languages": {
+        "TypeScript": 4202.592428,
+        "Other": 348.110228
+      }
+    },
+    "2024-04-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-17": {
+      "grand_total_seconds": 4405.564448,
+      "languages": {
+        "TypeScript": 4402.1353,
+        "Other": 3.429148
+      }
+    },
+    "2024-04-18": {
+      "grand_total_seconds": 9805.476554,
+      "languages": {
+        "TypeScript": 9805.476554
+      }
+    },
+    "2024-04-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-24": {
+      "grand_total_seconds": 10910.388217,
+      "languages": {
+        "TypeScript": 10910.388217
+      }
+    },
+    "2024-04-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-26": {
+      "grand_total_seconds": 1464.709249,
+      "languages": {
+        "TypeScript": 777.798927,
+        "Other": 686.910322
+      }
+    },
+    "2024-04-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-04-29": {
+      "grand_total_seconds": 2535.986027,
+      "languages": {
+        "TypeScript": 2528.615826,
+        "Other": 7.370201
+      }
+    },
+    "2024-04-30": {
+      "grand_total_seconds": 8884.20551,
+      "languages": {
+        "TypeScript": 8373.411815,
+        "Text": 371.082788,
+        "SCSS": 110.954626,
+        "Python": 28.756281
+      }
+    },
+    "2024-05-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-02": {
+      "grand_total_seconds": 2591.274526,
+      "languages": {
+        "TypeScript": 2591.274526
+      }
+    },
+    "2024-05-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-07": {
+      "grand_total_seconds": 661.416753,
+      "languages": {
+        "Other": 539.066369,
+        "TypeScript": 122.350384
+      }
+    },
+    "2024-05-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-09": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-11": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-05-27": {
+      "grand_total_seconds": 13631.165067,
+      "languages": {
+        "TypeScript": 13631.165067
+      }
+    },
+    "2024-05-28": {
+      "grand_total_seconds": 27063.297505,
+      "languages": {
+        "TypeScript": 26258.046458,
+        "Python": 796.837201,
+        "Text": 8.413846
+      }
+    },
+    "2024-05-29": {
+      "grand_total_seconds": 24475.884231,
+      "languages": {
+        "TypeScript": 24475.884231
+      }
+    },
+    "2024-05-30": {
+      "grand_total_seconds": 20035.800434,
+      "languages": {
+        "TypeScript": 20035.800434
+      }
+    },
+    "2024-05-31": {
+      "grand_total_seconds": 19903.916755,
+      "languages": {
+        "TypeScript": 19892.829911,
+        "JSON": 11.086844
+      }
+    },
+    "2024-06-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-04": {
+      "grand_total_seconds": 20909.892235,
+      "languages": {
+        "TypeScript": 19404.890257,
+        "JSON": 1490.132674,
+        "TSConfig": 6.837586,
+        "SCSS": 5.749505,
+        "Other": 2.282213
+      }
+    },
+    "2024-06-05": {
+      "grand_total_seconds": 22060.353112,
+      "languages": {
+        "TypeScript": 20585.953436,
+        "Bash": 1474.009396,
+        "JSON": 0.39028
+      }
+    },
+    "2024-06-06": {
+      "grand_total_seconds": 21214.052209,
+      "languages": {
+        "TypeScript": 21212.83889,
+        "Other": 1.213319
+      }
+    },
+    "2024-06-07": {
+      "grand_total_seconds": 15898.876278,
+      "languages": {
+        "TypeScript": 15898.876278
+      }
+    },
+    "2024-06-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-09": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-10": {
+      "grand_total_seconds": 16999.527515,
+      "languages": {
+        "TypeScript": 15511.569512,
+        "Python": 1487.958003
+      }
+    },
+    "2024-06-11": {
+      "grand_total_seconds": 23576.231606,
+      "languages": {
+        "TypeScript": 23369.553107,
+        "Other": 194.066777,
+        "JSON": 12.611722
+      }
+    },
+    "2024-06-12": {
+      "grand_total_seconds": 24924.68046,
+      "languages": {
+        "TypeScript": 24924.68046
+      }
+    },
+    "2024-06-13": {
+      "grand_total_seconds": 24502.495715,
+      "languages": {
+        "TypeScript": 24502.495715
+      }
+    },
+    "2024-06-14": {
+      "grand_total_seconds": 24237.632012,
+      "languages": {
+        "TypeScript": 23900.469643,
+        "SCSS": 303.210153,
+        "JSON": 33.952216
+      }
+    },
+    "2024-06-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-17": {
+      "grand_total_seconds": 21301.788043,
+      "languages": {
+        "TypeScript": 16367.057284,
+        "SCSS": 2022.390439,
+        "Text": 1302.30429,
+        "Python": 996.08407,
+        "INI": 538.391343,
+        "Other": 75.560617
+      }
+    },
+    "2024-06-18": {
+      "grand_total_seconds": 21681.473944,
+      "languages": {
+        "TypeScript": 21681.0136,
+        "Other": 0.460344
+      }
+    },
+    "2024-06-19": {
+      "grand_total_seconds": 23086.930489,
+      "languages": {
+        "TypeScript": 19354.675648,
+        "YAML": 3464.038748,
+        "HTML": 181.589956,
+        "Other": 77.135575,
+        "Docker": 7.954988,
+        "SCSS": 1.535574
+      }
+    },
+    "2024-06-20": {
+      "grand_total_seconds": 26056.694148,
+      "languages": {
+        "TypeScript": 18398.426653,
+        "JSON": 6036.03196,
+        "SCSS": 801.9401,
+        "JavaScript": 443.284031,
+        "Other": 377.011404
+      }
+    },
+    "2024-06-21": {
+      "grand_total_seconds": 22830.799823,
+      "languages": {
+        "TypeScript": 22407.016463,
+        "SCSS": 369.977454,
+        "JSON": 42.500363,
+        "Other": 7.645566,
+        "CSS": 3.659977
+      }
+    },
+    "2024-06-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-24": {
+      "grand_total_seconds": 9058.105155,
+      "languages": {
+        "TypeScript": 9058.105155
+      }
+    },
+    "2024-06-25": {
+      "grand_total_seconds": 25806.569697,
+      "languages": {
+        "TypeScript": 24060.830723,
+        "TSConfig": 753.363789,
+        "JSON": 430.761327,
+        "Bash": 218.468641,
+        "Python": 214.411963,
+        "Other": 128.733254
+      }
+    },
+    "2024-06-26": {
+      "grand_total_seconds": 24312.612272,
+      "languages": {
+        "TypeScript": 23836.354831,
+        "SCSS": 406.375657,
+        "JSON": 59.079046,
+        "TSConfig": 5.26796,
+        "JavaScript": 2.782077,
+        "Other": 2.752701
+      }
+    },
+    "2024-06-27": {
+      "grand_total_seconds": 26220.138834,
+      "languages": {
+        "TypeScript": 26201.21722,
+        "TSConfig": 13.133307,
+        "SCSS": 5.788307
+      }
+    },
+    "2024-06-28": {
+      "grand_total_seconds": 34105.171777,
+      "languages": {
+        "TypeScript": 33504.633637,
+        "SCSS": 600.53814
+      }
+    },
+    "2024-06-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-06-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-07-01": {
+      "grand_total_seconds": 25968.076665,
+      "languages": {
+        "TypeScript": 25725.67292,
+        "SCSS": 196.249811,
+        "JSON": 44.153616,
+        "CSS": 2.000318
+      }
+    },
+    "2024-07-02": {
+      "grand_total_seconds": 28780.123507,
+      "languages": {
+        "TypeScript": 28780.123507
+      }
+    },
+    "2024-07-03": {
+      "grand_total_seconds": 25330.431588,
+      "languages": {
+        "TypeScript": 24563.412628,
+        "JavaScript": 764.959915,
+        "Other": 2.059045
+      }
+    },
+    "2024-07-04": {
+      "grand_total_seconds": 22926.596244,
+      "languages": {
+        "TypeScript": 21224.831253,
+        "Bash": 804.926632,
+        "Other": 449.33054,
+        "SCSS": 368.163826,
+        "JSON": 64.529182,
+        "YAML": 14.698419,
+        "JavaScript": 0.116392
+      }
+    },
+    "2024-07-05": {
+      "grand_total_seconds": 25120.020641,
+      "languages": {
+        "TypeScript": 24577.611174,
+        "SCSS": 533.061757,
+        "TSConfig": 2.975015,
+        "Other": 2.670729,
+        "Image (svg)": 2.543389,
+        "JavaScript": 1.158577
+      }
+    },
+    "2024-07-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-07-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-07-08": {
+      "grand_total_seconds": 39062.032973,
+      "languages": {
+        "TypeScript": 36321.108842,
+        "SCSS": 2724.649049,
+        "Other": 14.076506,
+        "JavaScript": 2.198576
+      }
+    },
+    "2024-07-09": {
+      "grand_total_seconds": 30240.067008,
+      "languages": {
+        "TypeScript": 29166.862805,
+        "SCSS": 971.683157,
+        "JSON": 101.521046
+      }
+    },
+    "2024-07-10": {
+      "grand_total_seconds": 24653.355055,
+      "languages": {
+        "TypeScript": 24477.764011,
+        "SCSS": 145.659738,
+        "JSON": 29.931306
+      }
+    },
+    "2024-07-11": {
+      "grand_total_seconds": 14572.358228,
+      "languages": {
+        "TypeScript": 14572.358228
+      }
+    },
+    "2024-07-12": {
+      "grand_total_seconds": 22390.157374,
+      "languages": {
+        "TypeScript": 22366.838941,
+        "SCSS": 23.318433
+      }
+    },
+    "2024-07-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-07-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-07-15": {
+      "grand_total_seconds": 24797.884693,
+      "languages": {
+        "TypeScript": 24428.279698,
+        "SCSS": 369.604995
+      }
+    },
+    "2024-07-16": {
+      "grand_total_seconds": 23763.347394,
+      "languages": {
+        "TypeScript": 23240.511178,
+        "Other": 282.096108,
+        "JSON": 240.129167,
+        "SCSS": 0.610941
+      }
+    },
+    "2024-07-17": {
+      "grand_total_seconds": 17101.442049,
+      "languages": {
+        "TypeScript": 14931.763781,
+        "JSON": 2008.963459,
+        "Other": 160.714809
+      }
+    },
+    "2024-07-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-07-19": {
+      "grand_total_seconds": 23212.306602,
+      "languages": {
+        "TypeScript": 23166.222465,
+        "Other": 41.463316,
+        "JSON": 4.620821
+      }
+    },
+    "2024-07-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-07-21": {
+      "grand_total_seconds": 14234.297284,
+      "languages": {
+        "TypeScript": 14158.800772,
+        "JSON": 75.496512
+      }
+    },
+    "2024-07-22": {
+      "grand_total_seconds": 22906.313075,
+      "languages": {
+        "TypeScript": 21794.909527,
+        "Image (svg)": 978.418472,
+        "CSS": 64.110146,
+        "Other": 57.382364,
+        "JSON": 11.492566
+      }
+    },
+    "2024-07-23": {
+      "grand_total_seconds": 20129.111603,
+      "languages": {
+        "TypeScript": 20129.111603
+      }
+    },
+    "2024-07-24": {
+      "grand_total_seconds": 25318.125311,
+      "languages": {
+        "TypeScript": 25220.696035,
+        "Other": 97.429276
+      }
+    },
+    "2024-07-25": {
+      "grand_total_seconds": 25563.744666,
+      "languages": {
+        "TypeScript": 25551.545568,
+        "JSON": 12.199098
+      }
+    },
+    "2024-07-26": {
+      "grand_total_seconds": 26147.150861,
+      "languages": {
+        "TypeScript": 25050.655824,
+        "Git Config": 497.788638,
+        "JSON": 469.572272,
+        "Other": 129.134127
+      }
+    },
+    "2024-07-27": {
+      "grand_total_seconds": 3794.571593,
+      "languages": {
+        "TypeScript": 2194.082573,
+        "Other": 1349.638706,
+        "Bash": 169.935247,
+        "JSON": 68.584077,
+        "Text": 6.189518,
+        "Git Config": 3.166543,
+        "Image (svg)": 2.974929
+      }
+    },
+    "2024-07-28": {
+      "grand_total_seconds": 15569.340024,
+      "languages": {
+        "TypeScript": 15558.575783,
+        "Other": 10.764241
+      }
+    },
+    "2024-07-29": {
+      "grand_total_seconds": 4720.514808,
+      "languages": {
+        "TypeScript": 4720.514808
+      }
+    },
+    "2024-07-30": {
+      "grand_total_seconds": 28427.21279,
+      "languages": {
+        "TypeScript": 27955.071272,
+        "Other": 275.113579,
+        "JSON": 88.478379,
+        "Python": 86.808834,
+        "SCSS": 21.21265,
+        "Bash": 0.528076
+      }
+    },
+    "2024-07-31": {
+      "grand_total_seconds": 21494.445053,
+      "languages": {
+        "TypeScript": 21404.695597,
+        "SCSS": 89.749456
+      }
+    },
+    "2024-08-01": {
+      "grand_total_seconds": 22743.708826,
+      "languages": {
+        "TypeScript": 22741.490809,
+        "Other": 2.218017
+      }
+    },
+    "2024-08-02": {
+      "grand_total_seconds": 21263.205924,
+      "languages": {
+        "TypeScript": 20358.140957,
+        "Git Config": 354.682612,
+        "JSON": 291.200622,
+        "Other": 247.299189,
+        "SCSS": 11.882544
+      }
+    },
+    "2024-08-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-08-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-08-05": {
+      "grand_total_seconds": 1786.71751,
+      "languages": {
+        "TypeScript": 1308.847744,
+        "SCSS": 477.869766
+      }
+    },
+    "2024-08-06": {
+      "grand_total_seconds": 14949.280935,
+      "languages": {
+        "TypeScript": 14770.771762,
+        "SCSS": 175.545048,
+        "Other": 2.964125
+      }
+    },
+    "2024-08-07": {
+      "grand_total_seconds": 18518.142192,
+      "languages": {
+        "TypeScript": 18506.195897,
+        "Other": 11.946295
+      }
+    },
+    "2024-08-08": {
+      "grand_total_seconds": 12692.811784,
+      "languages": {
+        "TypeScript": 12618.92035,
+        "SCSS": 60.133715,
+        "JSON": 13.757719
+      }
+    },
+    "2024-08-09": {
+      "grand_total_seconds": 24861.169703,
+      "languages": {
+        "TypeScript": 24861.169703
+      }
+    },
+    "2024-08-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-08-11": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-08-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-08-13": {
+      "grand_total_seconds": 25441.316023,
+      "languages": {
+        "TypeScript": 24701.317243,
+        "SCSS": 686.482433,
+        "Python": 53.516347
+      }
+    },
+    "2024-08-14": {
+      "grand_total_seconds": 20024.562543,
+      "languages": {
+        "TypeScript": 18104.021944,
+        "Python": 1918.745444,
+        "Other": 1.795155
+      }
+    },
+    "2024-08-15": {
+      "grand_total_seconds": 22540.167415,
+      "languages": {
+        "TypeScript": 21668.1226,
+        "SCSS": 523.633951,
+        "JSON": 263.719376,
+        "Other": 45.699885,
+        "TSConfig": 29.924234,
+        "JavaScript": 6.659287,
+        "CSS": 1.959617,
+        "Docker": 0.448465
+      }
+    },
+    "2024-08-16": {
+      "grand_total_seconds": 21844.090465,
+      "languages": {
+        "TypeScript": 21613.554289,
+        "Python": 221.45188,
+        "JSON": 8.974898,
+        "Text": 0.109398
+      }
+    },
+    "2024-08-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-08-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-08-19": {
+      "grand_total_seconds": 22065.345656,
+      "languages": {
+        "TypeScript": 21354.824441,
+        "JSON": 458.964071,
+        "SCSS": 182.194763,
+        "Git Config": 69.362381
+      }
+    },
+    "2024-08-20": {
+      "grand_total_seconds": 11089.499609,
+      "languages": {
+        "TypeScript": 11075.308723,
+        "Git Config": 14.190886
+      }
+    },
+    "2024-08-21": {
+      "grand_total_seconds": 25500.569668,
+      "languages": {
+        "TypeScript": 25239.039874,
+        "JSON": 243.049142,
+        "Other": 18.480652
+      }
+    },
+    "2024-08-22": {
+      "grand_total_seconds": 20799.905936,
+      "languages": {
+        "TypeScript": 20764.625853,
+        "SCSS": 35.280083
+      }
+    },
+    "2024-08-23": {
+      "grand_total_seconds": 27534.521198,
+      "languages": {
+        "TypeScript": 27533.117641,
+        "Image (svg)": 1.403557
+      }
+    },
+    "2024-08-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-08-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-08-26": {
+      "grand_total_seconds": 26012.56324,
+      "languages": {
+        "TypeScript": 25973.140907,
+        "JSON": 39.422333
+      }
+    },
+    "2024-08-27": {
+      "grand_total_seconds": 19761.075356,
+      "languages": {
+        "TypeScript": 18964.960837,
+        "SCSS": 458.539331,
+        "JSON": 337.575188
+      }
+    },
+    "2024-08-28": {
+      "grand_total_seconds": 22678.285574,
+      "languages": {
+        "TypeScript": 22678.285574
+      }
+    },
+    "2024-08-29": {
+      "grand_total_seconds": 25458.469898,
+      "languages": {
+        "TypeScript": 24840.444612,
+        "Text": 549.710341,
+        "Python": 68.314945
+      }
+    },
+    "2024-08-30": {
+      "grand_total_seconds": 19519.556893,
+      "languages": {
+        "TypeScript": 19519.556893
+      }
+    },
+    "2024-08-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-02": {
+      "grand_total_seconds": 24233.607667,
+      "languages": {
+        "TypeScript": 22998.530696,
+        "JSON": 929.753098,
+        "Other": 236.518315,
+        "Image (svg)": 65.936244,
+        "YAML": 2.869314
+      }
+    },
+    "2024-09-03": {
+      "grand_total_seconds": 28462.921686,
+      "languages": {
+        "TypeScript": 27965.717492,
+        "JSON": 398.998437,
+        "Image (svg)": 77.143888,
+        "Other": 21.061869
+      }
+    },
+    "2024-09-04": {
+      "grand_total_seconds": 23989.747083,
+      "languages": {
+        "TypeScript": 23722.454492,
+        "JSON": 267.292591
+      }
+    },
+    "2024-09-05": {
+      "grand_total_seconds": 23539.772971,
+      "languages": {
+        "TypeScript": 23125.883174,
+        "Bash": 325.792898,
+        "JSON": 88.096899
+      }
+    },
+    "2024-09-06": {
+      "grand_total_seconds": 12721.15808,
+      "languages": {
+        "TypeScript": 12685.699236,
+        "Bash": 35.458844
+      }
+    },
+    "2024-09-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-09": {
+      "grand_total_seconds": 24286.67023,
+      "languages": {
+        "TypeScript": 23208.827591,
+        "Other": 1064.566884,
+        "Bash": 13.275755
+      }
+    },
+    "2024-09-10": {
+      "grand_total_seconds": 26041.656229,
+      "languages": {
+        "TypeScript": 26011.78464,
+        "Other": 27.263809,
+        "Bash": 2.60778
+      }
+    },
+    "2024-09-11": {
+      "grand_total_seconds": 25583.205896,
+      "languages": {
+        "TypeScript": 25573.155358,
+        "Python": 8.41348,
+        "Other": 1.637058
+      }
+    },
+    "2024-09-12": {
+      "grand_total_seconds": 26037.646858,
+      "languages": {
+        "TypeScript": 26033.308116,
+        "JavaScript": 4.338742
+      }
+    },
+    "2024-09-13": {
+      "grand_total_seconds": 24519.872379,
+      "languages": {
+        "TypeScript": 24519.872379
+      }
+    },
+    "2024-09-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-23": {
+      "grand_total_seconds": 22105.16924,
+      "languages": {
+        "TypeScript": 22089.567901,
+        "JSON": 15.601339
+      }
+    },
+    "2024-09-24": {
+      "grand_total_seconds": 24497.112265,
+      "languages": {
+        "TypeScript": 24497.112265
+      }
+    },
+    "2024-09-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-26": {
+      "grand_total_seconds": 26436.537411,
+      "languages": {
+        "TypeScript": 26436.537411
+      }
+    },
+    "2024-09-27": {
+      "grand_total_seconds": 19747.341634,
+      "languages": {
+        "TypeScript": 19747.341634
+      }
+    },
+    "2024-09-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-09-30": {
+      "grand_total_seconds": 20895.378967,
+      "languages": {
+        "TypeScript": 20245.415796,
+        "JSON": 649.963171
+      }
+    },
+    "2024-10-01": {
+      "grand_total_seconds": 10913.705518,
+      "languages": {
+        "TypeScript": 10913.705518
+      }
+    },
+    "2024-10-02": {
+      "grand_total_seconds": 14406.758986,
+      "languages": {
+        "TypeScript": 14406.758986
+      }
+    },
+    "2024-10-03": {
+      "grand_total_seconds": 22897.569535,
+      "languages": {
+        "TypeScript": 22897.569535
+      }
+    },
+    "2024-10-04": {
+      "grand_total_seconds": 23940.225005,
+      "languages": {
+        "TypeScript": 23853.724478,
+        "SCSS": 86.500527
+      }
+    },
+    "2024-10-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-07": {
+      "grand_total_seconds": 26860.862575,
+      "languages": {
+        "TypeScript": 26860.862575
+      }
+    },
+    "2024-10-08": {
+      "grand_total_seconds": 22919.357244,
+      "languages": {
+        "TypeScript": 22908.140379,
+        "JSON": 11.216865
+      }
+    },
+    "2024-10-09": {
+      "grand_total_seconds": 25635.298688,
+      "languages": {
+        "TypeScript": 25402.049404,
+        "SCSS": 233.249284
+      }
+    },
+    "2024-10-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-11": {
+      "grand_total_seconds": 17273.773336,
+      "languages": {
+        "TypeScript": 16532.99814,
+        "SCSS": 740.775196
+      }
+    },
+    "2024-10-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-15": {
+      "grand_total_seconds": 11643.204265,
+      "languages": {
+        "TypeScript": 9919.627343,
+        "JSON": 1485.83278,
+        "Other": 141.663926,
+        "Python": 79.461788,
+        "JavaScript": 14.11132,
+        "SCSS": 2.507108
+      }
+    },
+    "2024-10-16": {
+      "grand_total_seconds": 18764.281695,
+      "languages": {
+        "TypeScript": 18762.258833,
+        "JSON": 2.022862
+      }
+    },
+    "2024-10-17": {
+      "grand_total_seconds": 22350.668649,
+      "languages": {
+        "TypeScript": 22214.972908,
+        "SCSS": 80.583571,
+        "Bash": 52.567313,
+        "JavaScript": 2.544857
+      }
+    },
+    "2024-10-18": {
+      "grand_total_seconds": 21352.841321,
+      "languages": {
+        "TypeScript": 21352.841321
+      }
+    },
+    "2024-10-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-21": {
+      "grand_total_seconds": 29742.078564,
+      "languages": {
+        "TypeScript": 29736.726109,
+        "SCSS": 5.352455
+      }
+    },
+    "2024-10-22": {
+      "grand_total_seconds": 26205.572475,
+      "languages": {
+        "TypeScript": 26175.239141,
+        "Other": 30.333334
+      }
+    },
+    "2024-10-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-24": {
+      "grand_total_seconds": 25366.422892,
+      "languages": {
+        "TypeScript": 25366.422892
+      }
+    },
+    "2024-10-25": {
+      "grand_total_seconds": 16703.867672,
+      "languages": {
+        "TypeScript": 15564.73877,
+        "Python": 1139.128902
+      }
+    },
+    "2024-10-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-28": {
+      "grand_total_seconds": 17692.435873,
+      "languages": {
+        "TypeScript": 15789.938187,
+        "Python": 1390.521215,
+        "Other": 511.976471
+      }
+    },
+    "2024-10-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-10-30": {
+      "grand_total_seconds": 20443.94132,
+      "languages": {
+        "TypeScript": 19329.998988,
+        "SCSS": 1113.942332
+      }
+    },
+    "2024-10-31": {
+      "grand_total_seconds": 18658.620598,
+      "languages": {
+        "TypeScript": 16702.001965,
+        "SCSS": 1098.593299,
+        "Other": 651.586982,
+        "JSON": 171.100892,
+        "Python": 35.33746
+      }
+    },
+    "2024-11-01": {
+      "grand_total_seconds": 25901.095878,
+      "languages": {
+        "TypeScript": 25824.040175,
+        "Other": 77.055703
+      }
+    },
+    "2024-11-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-11-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-11-04": {
+      "grand_total_seconds": 16927.74097,
+      "languages": {
+        "TypeScript": 16927.74097
+      }
+    },
+    "2024-11-05": {
+      "grand_total_seconds": 14320.687029,
+      "languages": {
+        "TypeScript": 14230.351995,
+        "Bash": 89.967964,
+        "Other": 0.36707
+      }
+    },
+    "2024-11-06": {
+      "grand_total_seconds": 18790.599594,
+      "languages": {
+        "TypeScript": 18790.599594
+      }
+    },
+    "2024-11-07": {
+      "grand_total_seconds": 19193.253801,
+      "languages": {
+        "TypeScript": 19066.528398,
+        "SCSS": 126.725403
+      }
+    },
+    "2024-11-08": {
+      "grand_total_seconds": 33475.873171,
+      "languages": {
+        "TypeScript": 31744.294337,
+        "JSON": 957.472668,
+        "HTML": 367.293385,
+        "TSConfig": 302.189825,
+        "CSS": 40.417352,
+        "Other": 30.132587,
+        "Git Config": 22.045613,
+        "Text": 5.221746,
+        "SCSS": 4.689497,
+        "Image (svg)": 2.116161
+      }
+    },
+    "2024-11-09": {
+      "grand_total_seconds": 59048.985735,
+      "languages": {
+        "TypeScript": 55361.644667,
+        "Markdown": 1946.289097,
+        "JSON": 582.394733,
+        "CSS": 523.046876,
+        "Other": 411.899672,
+        "HTML": 150.035237,
+        "TSConfig": 73.675453
+      }
+    },
+    "2024-11-10": {
+      "grand_total_seconds": 11256.611565,
+      "languages": {
+        "TypeScript": 4039.482686,
+        "Text": 2337.078999,
+        "Bash": 2032.743426,
+        "JSON": 1553.227682,
+        "Other": 780.453863,
+        "Python": 513.624909
+      }
+    },
+    "2024-11-11": {
+      "grand_total_seconds": 15567.00469,
+      "languages": {
+        "TypeScript": 15238.042623,
+        "Other": 229.492123,
+        "SCSS": 89.625166,
+        "HTML": 7.190904,
+        "TSConfig": 1.054362,
+        "JSON": 0.915232,
+        "JavaScript": 0.68428
+      }
+    },
+    "2024-11-12": {
+      "grand_total_seconds": 10620.059551,
+      "languages": {
+        "TypeScript": 10620.059551
+      }
+    },
+    "2024-11-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-11-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-11-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-11-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-11-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-11-18": {
+      "grand_total_seconds": 18121.359813,
+      "languages": {
+        "TypeScript": 14590.562364,
+        "Text": 1615.368196,
+        "Bash": 701.899225,
+        "JSON": 563.489411,
+        "Python": 384.830526,
+        "Markdown": 236.305582,
+        "Other": 16.699456,
+        "HTML": 6.466721,
+        "Git Config": 5.738332
+      }
+    },
+    "2024-11-19": {
+      "grand_total_seconds": 23796.885929,
+      "languages": {
+        "TypeScript": 23727.020179,
+        "SCSS": 36.254481,
+        "JSON": 33.611269
+      }
+    },
+    "2024-11-20": {
+      "grand_total_seconds": 14518.542897,
+      "languages": {
+        "TypeScript": 13888.678495,
+        "JSON": 629.864402
+      }
+    },
+    "2024-11-21": {
+      "grand_total_seconds": 22487.662434,
+      "languages": {
+        "TypeScript": 20925.815528,
+        "JSON": 1415.227406,
+        "SCSS": 136.91825,
+        "JavaScript": 9.70125
+      }
+    },
+    "2024-11-22": {
+      "grand_total_seconds": 17870.998693,
+      "languages": {
+        "Python": 8289.582103,
+        "TypeScript": 4181.297227,
+        "Bash": 3282.496381,
+        "HTML": 1102.012522,
+        "Other": 616.881245,
+        "SCSS": 201.664542,
+        "Markdown": 194.358712,
+        "Text": 2.705961
+      }
+    },
+    "2024-11-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-11-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-11-25": {
+      "grand_total_seconds": 6549.028514,
+      "languages": {
+        "TypeScript": 4293.192388,
+        "JSON": 2186.446373,
+        "YAML": 31.926152,
+        "HTML": 21.203595,
+        "SCSS": 11.858201,
+        "Other": 3.995854,
+        "JavaScript": 0.405951
+      }
+    },
+    "2024-11-26": {
+      "grand_total_seconds": 25836.10605,
+      "languages": {
+        "TypeScript": 25244.216099,
+        "Bash": 370.745064,
+        "Python": 204.007696,
+        "JSON": 17.137191
+      }
+    },
+    "2024-11-27": {
+      "grand_total_seconds": 27291.941415,
+      "languages": {
+        "TypeScript": 27003.188718,
+        "SCSS": 228.655163,
+        "JSON": 57.960736,
+        "Image (svg)": 2.136798
+      }
+    },
+    "2024-11-28": {
+      "grand_total_seconds": 23285.696576,
+      "languages": {
+        "TypeScript": 22727.130845,
+        "JSON": 554.272315,
+        "SCSS": 4.293416
+      }
+    },
+    "2024-11-29": {
+      "grand_total_seconds": 26150.377338,
+      "languages": {
+        "TypeScript": 25772.341364,
+        "Other": 174.656996,
+        "SCSS": 173.13781,
+        "TSConfig": 30.241168
+      }
+    },
+    "2024-11-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-02": {
+      "grand_total_seconds": 23627.719075,
+      "languages": {
+        "TypeScript": 23352.780737,
+        "SCSS": 251.657799,
+        "Other": 12.35136,
+        "Python": 10.929179
+      }
+    },
+    "2024-12-03": {
+      "grand_total_seconds": 19722.734399,
+      "languages": {
+        "TypeScript": 19679.511569,
+        "Other": 43.22283
+      }
+    },
+    "2024-12-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-09": {
+      "grand_total_seconds": 17449.398749,
+      "languages": {
+        "TypeScript": 17443.542652,
+        "SCSS": 5.856097
+      }
+    },
+    "2024-12-10": {
+      "grand_total_seconds": 21756.297339,
+      "languages": {
+        "TypeScript": 21645.469813,
+        "SCSS": 108.104656,
+        "Other": 2.72287
+      }
+    },
+    "2024-12-11": {
+      "grand_total_seconds": 18482.043067,
+      "languages": {
+        "TypeScript": 18301.524954,
+        "Other": 180.518113
+      }
+    },
+    "2024-12-12": {
+      "grand_total_seconds": 15811.090425,
+      "languages": {
+        "TypeScript": 13497.995097,
+        "TSConfig": 971.591413,
+        "Other": 943.286913,
+        "JSON": 398.217002
+      }
+    },
+    "2024-12-13": {
+      "grand_total_seconds": 20173.837413,
+      "languages": {
+        "TypeScript": 18273.791685,
+        "Other": 1819.396126,
+        "TSConfig": 66.320818,
+        "JSON": 14.328784
+      }
+    },
+    "2024-12-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-16": {
+      "grand_total_seconds": 16504.41154,
+      "languages": {
+        "TypeScript": 15279.32623,
+        "Python": 568.938227,
+        "Bash": 402.267073,
+        "SCSS": 109.95289,
+        "HTML": 98.396084,
+        "CSS": 45.531036
+      }
+    },
+    "2024-12-17": {
+      "grand_total_seconds": 25580.837223,
+      "languages": {
+        "TypeScript": 22442.875059,
+        "JSON": 3137.962164
+      }
+    },
+    "2024-12-18": {
+      "grand_total_seconds": 25426.192327,
+      "languages": {
+        "TypeScript": 21372.853094,
+        "SCSS": 3232.27518,
+        "CSS": 644.013614,
+        "Image (svg)": 67.763518,
+        "Other": 42.369731,
+        "HTML": 40.235779,
+        "TSConfig": 14.533828,
+        "JSON": 12.147583
+      }
+    },
+    "2024-12-19": {
+      "grand_total_seconds": 18410.186908,
+      "languages": {
+        "TypeScript": 18156.973315,
+        "SCSS": 213.931325,
+        "JSON": 39.282268
+      }
+    },
+    "2024-12-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-23": {
+      "grand_total_seconds": 12637.130618,
+      "languages": {
+        "TypeScript": 12637.130618
+      }
+    },
+    "2024-12-24": {
+      "grand_total_seconds": 22709.952526,
+      "languages": {
+        "TypeScript": 22623.095124,
+        "SCSS": 86.857402
+      }
+    },
+    "2024-12-25": {
+      "grand_total_seconds": 17788.60597,
+      "languages": {
+        "TypeScript": 16092.241159,
+        "SCSS": 1696.364811
+      }
+    },
+    "2024-12-26": {
+      "grand_total_seconds": 14504.478425,
+      "languages": {
+        "TypeScript": 14421.830374,
+        "JSON": 82.648051
+      }
+    },
+    "2024-12-27": {
+      "grand_total_seconds": 19298.392928,
+      "languages": {
+        "TypeScript": 19298.392928
+      }
+    },
+    "2024-12-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2024-12-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-07": {
+      "grand_total_seconds": 22642.831576,
+      "languages": {
+        "TypeScript": 14107.58778,
+        "JSON": 6333.657663,
+        "SCSS": 1658.295075,
+        "HTML": 406.333077,
+        "TSConfig": 100.824818,
+        "Other": 13.71492,
+        "Bash": 11.69452,
+        "Docker": 5.517022,
+        "JavaScript": 5.206701
+      }
+    },
+    "2025-01-08": {
+      "grand_total_seconds": 13146.225247,
+      "languages": {
+        "TypeScript": 8742.333799,
+        "SCSS": 2102.83135,
+        "JSON": 2055.619606,
+        "HTML": 195.044241,
+        "TSConfig": 48.65465,
+        "Other": 1.741601
+      }
+    },
+    "2025-01-09": {
+      "grand_total_seconds": 25459.632747,
+      "languages": {
+        "TypeScript": 23753.146807,
+        "Other": 914.632465,
+        "JSON": 441.506821,
+        "SCSS": 229.528935,
+        "Image (svg)": 75.644199,
+        "YAML": 43.82484,
+        "HTML": 1.34868
+      }
+    },
+    "2025-01-10": {
+      "grand_total_seconds": 18737.094958,
+      "languages": {
+        "TypeScript": 18155.587792,
+        "Other": 543.676536,
+        "JSON": 24.607606,
+        "TSConfig": 10.476357,
+        "JavaScript": 2.746667
+      }
+    },
+    "2025-01-11": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-13": {
+      "grand_total_seconds": 27104.953801,
+      "languages": {
+        "TypeScript": 26840.213542,
+        "SCSS": 247.363529,
+        "Other": 17.37673
+      }
+    },
+    "2025-01-14": {
+      "grand_total_seconds": 24665.272331,
+      "languages": {
+        "TypeScript": 24360.093322,
+        "SCSS": 229.878842,
+        "Other": 70.507431,
+        "JSON": 4.792736
+      }
+    },
+    "2025-01-15": {
+      "grand_total_seconds": 26407.660294,
+      "languages": {
+        "TypeScript": 26016.209237,
+        "JSON": 391.451057
+      }
+    },
+    "2025-01-16": {
+      "grand_total_seconds": 26998.322406,
+      "languages": {
+        "TypeScript": 26150.040042,
+        "JSON": 816.589755,
+        "Other": 25.193578,
+        "YAML": 6.499031
+      }
+    },
+    "2025-01-17": {
+      "grand_total_seconds": 22111.128401,
+      "languages": {
+        "TypeScript": 21969.768837,
+        "Other": 107.364113,
+        "SCSS": 33.995451
+      }
+    },
+    "2025-01-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-21": {
+      "grand_total_seconds": 32004.932336,
+      "languages": {
+        "TypeScript": 31026.11463,
+        "JSON": 347.775811,
+        "JavaScript": 345.624167,
+        "Other": 283.76923,
+        "Docker": 1.648498
+      }
+    },
+    "2025-01-22": {
+      "grand_total_seconds": 31472.097033,
+      "languages": {
+        "TypeScript": 30848.30846,
+        "Other": 572.634408,
+        "JavaScript": 47.441589,
+        "SCSS": 3.712576
+      }
+    },
+    "2025-01-23": {
+      "grand_total_seconds": 22221.754078,
+      "languages": {
+        "TypeScript": 16060.5883,
+        "Python": 5990.830801,
+        "JSON": 115.467601,
+        "Other": 50.901688,
+        "Bash": 3.965688
+      }
+    },
+    "2025-01-24": {
+      "grand_total_seconds": 28225.695472,
+      "languages": {
+        "TypeScript": 18717.332645,
+        "JSON": 5364.246417,
+        "JavaScript": 1906.643081,
+        "Other": 1113.937476,
+        "YAML": 474.272231,
+        "TSConfig": 304.966111,
+        "Docker": 188.950518,
+        "Bash": 129.72953,
+        "Python": 25.617463
+      }
+    },
+    "2025-01-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-01-27": {
+      "grand_total_seconds": 28305.137981,
+      "languages": {
+        "TypeScript": 18294.636373,
+        "JSON": 4067.178614,
+        "TSConfig": 2655.139166,
+        "JavaScript": 1667.103092,
+        "SCSS": 899.720646,
+        "Other": 545.81936,
+        "YAML": 155.742612,
+        "HTML": 7.957019,
+        "Assembly": 6.946605,
+        "Bash": 2.52034,
+        "CSS": 1.599528,
+        "Markdown": 0.774626
+      }
+    },
+    "2025-01-28": {
+      "grand_total_seconds": 3731.829699,
+      "languages": {
+        "TypeScript": 1916.232442,
+        "JSON": 1815.597257
+      }
+    },
+    "2025-01-29": {
+      "grand_total_seconds": 10465.675655,
+      "languages": {
+        "TypeScript": 8308.730198,
+        "JSON": 1641.139759,
+        "SCSS": 430.205903,
+        "Other": 71.865958,
+        "YAML": 8.268444,
+        "TSConfig": 3.6463,
+        "JavaScript": 1.819093
+      }
+    },
+    "2025-01-30": {
+      "grand_total_seconds": 11722.47627,
+      "languages": {
+        "TypeScript": 10500.907052,
+        "JSON": 1061.985284,
+        "Other": 144.248914,
+        "YAML": 15.33502
+      }
+    },
+    "2025-01-31": {
+      "grand_total_seconds": 15525.379627,
+      "languages": {
+        "TypeScript": 12221.711077,
+        "JSON": 2509.253787,
+        "Other": 545.206572,
+        "Docker": 172.525795,
+        "YAML": 67.286825,
+        "Git Config": 9.395571
+      }
+    },
+    "2025-02-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-03": {
+      "grand_total_seconds": 26821.371507,
+      "languages": {
+        "TypeScript": 21208.254114,
+        "JSON": 2618.042724,
+        "JavaScript": 2286.367016,
+        "YAML": 542.744911,
+        "TSConfig": 96.618504,
+        "Other": 34.68584,
+        "Docker": 24.304298,
+        "CSS": 7.99968,
+        "SCSS": 2.35442
+      }
+    },
+    "2025-02-04": {
+      "grand_total_seconds": 28425.630514,
+      "languages": {
+        "TypeScript": 28206.383863,
+        "JavaScript": 219.246651
+      }
+    },
+    "2025-02-05": {
+      "grand_total_seconds": 27678.526195,
+      "languages": {
+        "TypeScript": 27663.045559,
+        "Other": 15.480636
+      }
+    },
+    "2025-02-06": {
+      "grand_total_seconds": 24488.053387,
+      "languages": {
+        "TypeScript": 24450.855932,
+        "SCSS": 23.486318,
+        "JSON": 13.711137
+      }
+    },
+    "2025-02-07": {
+      "grand_total_seconds": 18397.253357,
+      "languages": {
+        "TypeScript": 18397.253357
+      }
+    },
+    "2025-02-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-09": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-10": {
+      "grand_total_seconds": 35354.002181,
+      "languages": {
+        "TypeScript": 35273.524093,
+        "SCSS": 65.746983,
+        "HTML": 14.731105
+      }
+    },
+    "2025-02-11": {
+      "grand_total_seconds": 31758.173546,
+      "languages": {
+        "TypeScript": 31753.669784,
+        "JSON": 4.503762
+      }
+    },
+    "2025-02-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-14": {
+      "grand_total_seconds": 24644.012824,
+      "languages": {
+        "TypeScript": 24644.012824
+      }
+    },
+    "2025-02-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-17": {
+      "grand_total_seconds": 32863.846688,
+      "languages": {
+        "TypeScript": 32863.846688
+      }
+    },
+    "2025-02-18": {
+      "grand_total_seconds": 25239.096571,
+      "languages": {
+        "TypeScript": 25239.096571
+      }
+    },
+    "2025-02-19": {
+      "grand_total_seconds": 24195.049747,
+      "languages": {
+        "TypeScript": 24072.811947,
+        "SCSS": 122.2378
+      }
+    },
+    "2025-02-20": {
+      "grand_total_seconds": 23709.122626,
+      "languages": {
+        "TypeScript": 23709.122626
+      }
+    },
+    "2025-02-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-02-24": {
+      "grand_total_seconds": 28884.592598,
+      "languages": {
+        "TypeScript": 28866.746297,
+        "SCSS": 10.210031,
+        "Other": 7.63627
+      }
+    },
+    "2025-02-25": {
+      "grand_total_seconds": 21626.778637,
+      "languages": {
+        "TypeScript": 20338.104759,
+        "SCSS": 1288.673878
+      }
+    },
+    "2025-02-26": {
+      "grand_total_seconds": 25745.160844,
+      "languages": {
+        "TypeScript": 24743.306883,
+        "SCSS": 1001.853961
+      }
+    },
+    "2025-02-27": {
+      "grand_total_seconds": 25376.584554,
+      "languages": {
+        "TypeScript": 24940.616062,
+        "JSON": 245.737231,
+        "SCSS": 190.231261
+      }
+    },
+    "2025-02-28": {
+      "grand_total_seconds": 8969.194946,
+      "languages": {
+        "TypeScript": 6190.03627,
+        "Docker": 1644.021536,
+        "HTML": 542.024873,
+        "Nginx configuration file": 369.509556,
+        "JSON": 201.470546,
+        "Other": 22.132165
+      }
+    },
+    "2025-03-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-03": {
+      "grand_total_seconds": 11705.714389,
+      "languages": {
+        "TypeScript": 11705.714389
+      }
+    },
+    "2025-03-04": {
+      "grand_total_seconds": 20413.353017,
+      "languages": {
+        "TypeScript": 19280.784377,
+        "CSS": 619.379266,
+        "JavaScript": 461.672136,
+        "JSON": 49.916168,
+        "HTML": 1.60107
+      }
+    },
+    "2025-03-05": {
+      "grand_total_seconds": 18556.94776,
+      "languages": {
+        "TypeScript": 18321.350507,
+        "Other": 145.36195,
+        "JSON": 73.654531,
+        "SCSS": 16.580772
+      }
+    },
+    "2025-03-06": {
+      "grand_total_seconds": 22949.553224,
+      "languages": {
+        "TypeScript": 22025.989594,
+        "SCSS": 444.548151,
+        "JSON": 313.497552,
+        "Other": 165.517927
+      }
+    },
+    "2025-03-07": {
+      "grand_total_seconds": 17629.666223,
+      "languages": {
+        "TypeScript": 17461.564768,
+        "Other": 168.101455
+      }
+    },
+    "2025-03-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-09": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-10": {
+      "grand_total_seconds": 17533.91188,
+      "languages": {
+        "TypeScript": 16743.584592,
+        "Other": 529.139041,
+        "SCSS": 237.260768,
+        "JSON": 23.927479
+      }
+    },
+    "2025-03-11": {
+      "grand_total_seconds": 22292.350577,
+      "languages": {
+        "TypeScript": 22003.333324,
+        "Bash": 254.662681,
+        "Other": 33.649069,
+        "Python": 0.705503
+      }
+    },
+    "2025-03-12": {
+      "grand_total_seconds": 17534.401776,
+      "languages": {
+        "TypeScript": 16545.650447,
+        "Other": 988.751329
+      }
+    },
+    "2025-03-13": {
+      "grand_total_seconds": 16486.380448,
+      "languages": {
+        "TypeScript": 16462.903328,
+        "Image (svg)": 23.47712
+      }
+    },
+    "2025-03-14": {
+      "grand_total_seconds": 20043.874494,
+      "languages": {
+        "TypeScript": 17633.621001,
+        "SCSS": 2242.757661,
+        "Other": 158.994953,
+        "HTML": 8.500879
+      }
+    },
+    "2025-03-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-17": {
+      "grand_total_seconds": 26561.75091,
+      "languages": {
+        "TypeScript": 26561.75091
+      }
+    },
+    "2025-03-18": {
+      "grand_total_seconds": 18796.832304,
+      "languages": {
+        "TypeScript": 18238.468236,
+        "JSON": 558.364068
+      }
+    },
+    "2025-03-19": {
+      "grand_total_seconds": 19728.728666,
+      "languages": {
+        "TypeScript": 19707.154292,
+        "JSON": 13.403208,
+        "CSS": 7.406273,
+        "HTML": 0.764893
+      }
+    },
+    "2025-03-20": {
+      "grand_total_seconds": 20083.600121,
+      "languages": {
+        "TypeScript": 10976.99757,
+        "JavaScript": 7153.377254,
+        "JSON": 1597.272432,
+        "Other": 351.530221,
+        "TSConfig": 4.422644
+      }
+    },
+    "2025-03-21": {
+      "grand_total_seconds": 18661.086678,
+      "languages": {
+        "TypeScript": 18046.116417,
+        "SCSS": 598.607443,
+        "JavaScript": 16.362818
+      }
+    },
+    "2025-03-22": {
+      "grand_total_seconds": 118.467419,
+      "languages": {
+        "TypeScript": 118.467419
+      }
+    },
+    "2025-03-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-25": {
+      "grand_total_seconds": 26720.335348,
+      "languages": {
+        "TypeScript": 26697.521774,
+        "JSON": 22.813574
+      }
+    },
+    "2025-03-26": {
+      "grand_total_seconds": 24675.827081,
+      "languages": {
+        "TypeScript": 23752.948211,
+        "SCSS": 535.860837,
+        "Python": 384.823995,
+        "CSS": 1.550173,
+        "Bash": 0.399336,
+        "JSON": 0.244529
+      }
+    },
+    "2025-03-27": {
+      "grand_total_seconds": 23980.572464,
+      "languages": {
+        "TypeScript": 23075.839119,
+        "Other": 310.031925,
+        "Python": 307.575044,
+        "SCSS": 181.206656,
+        "Text": 105.91972
+      }
+    },
+    "2025-03-28": {
+      "grand_total_seconds": 9033.264357,
+      "languages": {
+        "TypeScript": 8906.135534,
+        "SCSS": 76.513995,
+        "Other": 50.614828
+      }
+    },
+    "2025-03-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-03-31": {
+      "grand_total_seconds": 14913.917016,
+      "languages": {
+        "TypeScript": 14014.979106,
+        "JSON": 891.524288,
+        "SCSS": 5.222929,
+        "JavaScript": 2.190693
+      }
+    },
+    "2025-04-01": {
+      "grand_total_seconds": 19943.788685,
+      "languages": {
+        "TypeScript": 19761.379887,
+        "SCSS": 152.212906,
+        "Other": 30.195892
+      }
+    },
+    "2025-04-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-08": {
+      "grand_total_seconds": 26221.023014,
+      "languages": {
+        "TypeScript": 26221.023014
+      }
+    },
+    "2025-04-09": {
+      "grand_total_seconds": 22883.44815,
+      "languages": {
+        "TypeScript": 22883.44815
+      }
+    },
+    "2025-04-10": {
+      "grand_total_seconds": 21971.882347,
+      "languages": {
+        "TypeScript": 21971.882347
+      }
+    },
+    "2025-04-11": {
+      "grand_total_seconds": 20302.211353,
+      "languages": {
+        "TypeScript": 20183.728521,
+        "Other": 59.318916,
+        "JSON": 59.163916
+      }
+    },
+    "2025-04-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-16": {
+      "grand_total_seconds": 27134.092734,
+      "languages": {
+        "TypeScript": 26712.256723,
+        "SCSS": 317.190556,
+        "Other": 91.156265,
+        "JSON": 13.48919
+      }
+    },
+    "2025-04-17": {
+      "grand_total_seconds": 10937.087778,
+      "languages": {
+        "TypeScript": 9805.259934,
+        "JSON": 715.56768,
+        "Other": 416.260164
+      }
+    },
+    "2025-04-18": {
+      "grand_total_seconds": 14372.122618,
+      "languages": {
+        "TypeScript": 10974.190788,
+        "Bash": 3302.364358,
+        "Python": 75.031771,
+        "JSON": 20.535701
+      }
+    },
+    "2025-04-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-22": {
+      "grand_total_seconds": 21133.751929,
+      "languages": {
+        "TypeScript": 18807.636972,
+        "SCSS": 1681.768695,
+        "Bash": 423.503596,
+        "Other": 139.052765,
+        "CSS": 81.789901
+      }
+    },
+    "2025-04-23": {
+      "grand_total_seconds": 22491.540998,
+      "languages": {
+        "TypeScript": 22414.771522,
+        "SCSS": 76.769476
+      }
+    },
+    "2025-04-24": {
+      "grand_total_seconds": 24547.484258,
+      "languages": {
+        "TypeScript": 24435.662986,
+        "SCSS": 76.670649,
+        "Git Config": 26.024396,
+        "JSON": 9.126227
+      }
+    },
+    "2025-04-25": {
+      "grand_total_seconds": 24228.640469,
+      "languages": {
+        "TypeScript": 24222.30859,
+        "JavaScript": 3.099868,
+        "SCSS": 2.405099,
+        "Other": 0.826912
+      }
+    },
+    "2025-04-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-04-28": {
+      "grand_total_seconds": 26413.824876,
+      "languages": {
+        "TypeScript": 26373.03207,
+        "SCSS": 28.914766,
+        "CSS": 11.87804
+      }
+    },
+    "2025-04-29": {
+      "grand_total_seconds": 32104.682686,
+      "languages": {
+        "TypeScript": 31252.4596,
+        "JSON": 558.861274,
+        "YAML": 118.659746,
+        "TSConfig": 111.62373,
+        "Other": 47.248198,
+        "SCSS": 15.830138
+      }
+    },
+    "2025-04-30": {
+      "grand_total_seconds": 23503.61581,
+      "languages": {
+        "TypeScript": 23193.032874,
+        "SCSS": 179.270346,
+        "YAML": 66.211537,
+        "JSON": 65.101053
+      }
+    },
+    "2025-05-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-02": {
+      "grand_total_seconds": 19660.945388,
+      "languages": {
+        "TypeScript": 19546.350653,
+        "SCSS": 75.725138,
+        "Other": 21.616657,
+        "Docker": 17.25294
+      }
+    },
+    "2025-05-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-07": {
+      "grand_total_seconds": 18604.994489,
+      "languages": {
+        "TypeScript": 18040.13107,
+        "SCSS": 564.863419
+      }
+    },
+    "2025-05-08": {
+      "grand_total_seconds": 20114.633229,
+      "languages": {
+        "TypeScript": 19940.406288,
+        "JSON": 160.734684,
+        "SCSS": 13.492257
+      }
+    },
+    "2025-05-09": {
+      "grand_total_seconds": 17251.897388,
+      "languages": {
+        "TypeScript": 17019.078392,
+        "SCSS": 232.818996
+      }
+    },
+    "2025-05-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-11": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-14": {
+      "grand_total_seconds": 23198.597336,
+      "languages": {
+        "TypeScript": 23031.777456,
+        "SCSS": 166.81988
+      }
+    },
+    "2025-05-15": {
+      "grand_total_seconds": 22524.659246,
+      "languages": {
+        "TypeScript": 22516.68476,
+        "Other": 6.887611,
+        "SCSS": 1.086875
+      }
+    },
+    "2025-05-16": {
+      "grand_total_seconds": 15739.408187,
+      "languages": {
+        "TypeScript": 15739.408187
+      }
+    },
+    "2025-05-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-19": {
+      "grand_total_seconds": 24085.318299,
+      "languages": {
+        "TypeScript": 24004.556959,
+        "SCSS": 80.76134
+      }
+    },
+    "2025-05-20": {
+      "grand_total_seconds": 18241.325307,
+      "languages": {
+        "TypeScript": 18241.325307
+      }
+    },
+    "2025-05-21": {
+      "grand_total_seconds": 20944.069851,
+      "languages": {
+        "TypeScript": 20670.885934,
+        "Python": 273.183917
+      }
+    },
+    "2025-05-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-23": {
+      "grand_total_seconds": 21162.88295,
+      "languages": {
+        "TypeScript": 21162.88295
+      }
+    },
+    "2025-05-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-05-26": {
+      "grand_total_seconds": 8210.018916,
+      "languages": {
+        "TypeScript": 8210.018916
+      }
+    },
+    "2025-05-27": {
+      "grand_total_seconds": 22317.937358,
+      "languages": {
+        "TypeScript": 22317.937358
+      }
+    },
+    "2025-05-28": {
+      "grand_total_seconds": 23927.949389,
+      "languages": {
+        "TypeScript": 23830.198732,
+        "SCSS": 97.750657
+      }
+    },
+    "2025-05-29": {
+      "grand_total_seconds": 21808.577357,
+      "languages": {
+        "TypeScript": 21301.19631,
+        "JSON": 198.386374,
+        "Git Config": 191.552552,
+        "Other": 105.870767,
+        "CSS": 11.571354
+      }
+    },
+    "2025-05-30": {
+      "grand_total_seconds": 21413.246267,
+      "languages": {
+        "TypeScript": 19465.499575,
+        "JSON": 988.020939,
+        "SCSS": 918.245308,
+        "Other": 41.480445
+      }
+    },
+    "2025-05-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-02": {
+      "grand_total_seconds": 18084.123201,
+      "languages": {
+        "TypeScript": 17724.379491,
+        "Other": 180.011618,
+        "SCSS": 179.732092
+      }
+    },
+    "2025-06-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-04": {
+      "grand_total_seconds": 22783.467036,
+      "languages": {
+        "TypeScript": 21839.180114,
+        "SCSS": 944.286922
+      }
+    },
+    "2025-06-05": {
+      "grand_total_seconds": 23760.298828,
+      "languages": {
+        "TypeScript": 23755.177441,
+        "SCSS": 5.121387
+      }
+    },
+    "2025-06-06": {
+      "grand_total_seconds": 7872.119693,
+      "languages": {
+        "TypeScript": 7872.119693
+      }
+    },
+    "2025-06-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-09": {
+      "grand_total_seconds": 27820.35823,
+      "languages": {
+        "TypeScript": 27820.35823
+      }
+    },
+    "2025-06-10": {
+      "grand_total_seconds": 9255.9982,
+      "languages": {
+        "TypeScript": 9167.805375,
+        "SCSS": 88.192825
+      }
+    },
+    "2025-06-11": {
+      "grand_total_seconds": 23132.340209,
+      "languages": {
+        "TypeScript": 22225.159433,
+        "SCSS": 392.940084,
+        "JSON": 287.146348,
+        "JavaScript": 218.72347,
+        "Other": 6.519734,
+        "TSConfig": 1.85114
+      }
+    },
+    "2025-06-12": {
+      "grand_total_seconds": 21342.729719,
+      "languages": {
+        "TypeScript": 18742.511196,
+        "Python": 2360.237961,
+        "JavaScript": 141.719799,
+        "YAML": 31.09617,
+        "JSON": 26.574937,
+        "Text": 21.565802,
+        "Bash": 19.023854
+      }
+    },
+    "2025-06-13": {
+      "grand_total_seconds": 21100.441677,
+      "languages": {
+        "TypeScript": 20938.438011,
+        "Other": 157.617927,
+        "Docker": 4.385739
+      }
+    },
+    "2025-06-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-16": {
+      "grand_total_seconds": 10669.001053,
+      "languages": {
+        "TypeScript": 10431.238041,
+        "Other": 165.343781,
+        "SCSS": 72.419231
+      }
+    },
+    "2025-06-17": {
+      "grand_total_seconds": 563.710855,
+      "languages": {
+        "TypeScript": 498.683305,
+        "Other": 65.02755
+      }
+    },
+    "2025-06-18": {
+      "grand_total_seconds": 29197.33697,
+      "languages": {
+        "TypeScript": 28576.296312,
+        "SCSS": 410.201128,
+        "Other": 162.248168,
+        "Python": 48.591362
+      }
+    },
+    "2025-06-19": {
+      "grand_total_seconds": 32991.195013,
+      "languages": {
+        "TypeScript": 30578.053678,
+        "SCSS": 2249.936709,
+        "Other": 99.809764,
+        "JavaScript": 38.5191,
+        "CSS": 24.875762
+      }
+    },
+    "2025-06-20": {
+      "grand_total_seconds": 26134.3435,
+      "languages": {
+        "TypeScript": 25705.674766,
+        "Python": 186.811406,
+        "SCSS": 91.71154,
+        "Other": 83.785561,
+        "JSON": 66.360227
+      }
+    },
+    "2025-06-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-23": {
+      "grand_total_seconds": 14917.895888,
+      "languages": {
+        "TypeScript": 14876.129833,
+        "SCSS": 39.407476,
+        "Other": 2.358579
+      }
+    },
+    "2025-06-24": {
+      "grand_total_seconds": 11108.038912,
+      "languages": {
+        "TypeScript": 10981.92038,
+        "JSON": 126.118532
+      }
+    },
+    "2025-06-25": {
+      "grand_total_seconds": 27005.688848,
+      "languages": {
+        "TypeScript": 27005.688848
+      }
+    },
+    "2025-06-26": {
+      "grand_total_seconds": 18342.697827,
+      "languages": {
+        "TypeScript": 18342.697827
+      }
+    },
+    "2025-06-27": {
+      "grand_total_seconds": 23141.181649,
+      "languages": {
+        "TypeScript": 23128.700962,
+        "JSON": 12.480687
+      }
+    },
+    "2025-06-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-06-30": {
+      "grand_total_seconds": 28915.470002,
+      "languages": {
+        "TypeScript": 28722.660469,
+        "SCSS": 192.809533
+      }
+    },
+    "2025-07-01": {
+      "grand_total_seconds": 25297.320124,
+      "languages": {
+        "TypeScript": 25297.320124
+      }
+    },
+    "2025-07-02": {
+      "grand_total_seconds": 2468.534714,
+      "languages": {
+        "TypeScript": 2468.534714
+      }
+    },
+    "2025-07-03": {
+      "grand_total_seconds": 4759.566157,
+      "languages": {
+        "TypeScript": 4749.945812,
+        "Other": 9.620345
+      }
+    },
+    "2025-07-04": {
+      "grand_total_seconds": 7812.684085,
+      "languages": {
+        "TypeScript": 7812.684085
+      }
+    },
+    "2025-07-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-07": {
+      "grand_total_seconds": 13013.705843,
+      "languages": {
+        "TypeScript": 13013.705843
+      }
+    },
+    "2025-07-08": {
+      "grand_total_seconds": 13776.265582,
+      "languages": {
+        "TypeScript": 12936.019308,
+        "Other": 840.246274
+      }
+    },
+    "2025-07-09": {
+      "grand_total_seconds": 11180.240814,
+      "languages": {
+        "TypeScript": 11180.240814
+      }
+    },
+    "2025-07-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-11": {
+      "grand_total_seconds": 612.984584,
+      "languages": {
+        "Python": 612.984584
+      }
+    },
+    "2025-07-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-07-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-09": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-11": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-08-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-02": {
+      "grand_total_seconds": 23984.305,
+      "languages": {
+        "TypeScript": 23270.703,
+        "SCSS": 464.498,
+        "Other": 249.104
+      }
+    },
+    "2025-09-03": {
+      "grand_total_seconds": 25661.857,
+      "languages": {
+        "TypeScript": 25179.72,
+        "SCSS": 458.445,
+        "Other": 23.692
+      }
+    },
+    "2025-09-04": {
+      "grand_total_seconds": 22615.78,
+      "languages": {
+        "TypeScript": 17977.981,
+        "JSON": 2514.496,
+        "JavaScript": 1563.942,
+        "Other": 320.43,
+        "Markdown": 205.796,
+        "TSConfig": 18.143,
+        "HTML": 12.449,
+        "YAML": 2.543
+      }
+    },
+    "2025-09-05": {
+      "grand_total_seconds": 22589.976,
+      "languages": {
+        "TypeScript": 22075.417,
+        "CSS": 222.511,
+        "HTML": 189.908,
+        "JSON": 102.14
+      }
+    },
+    "2025-09-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-09": {
+      "grand_total_seconds": 28130.393,
+      "languages": {
+        "TypeScript": 27138.118,
+        "HTML": 497.363,
+        "JavaScript": 389.229,
+        "JSON": 103.352,
+        "TSConfig": 2.331
+      }
+    },
+    "2025-09-10": {
+      "grand_total_seconds": 24810.238,
+      "languages": {
+        "TypeScript": 24810.238
+      }
+    },
+    "2025-09-11": {
+      "grand_total_seconds": 24002.605,
+      "languages": {
+        "TypeScript": 22432.791,
+        "CSS": 964.526,
+        "Other": 299.294,
+        "Git Config": 194.884,
+        "JavaScript": 87.508,
+        "JSON": 23.602
+      }
+    },
+    "2025-09-12": {
+      "grand_total_seconds": 20898.065,
+      "languages": {
+        "TypeScript": 20898.065
+      }
+    },
+    "2025-09-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-15": {
+      "grand_total_seconds": 25140.108,
+      "languages": {
+        "TypeScript": 25061.671,
+        "JSON": 74.945,
+        "Other": 3.492
+      }
+    },
+    "2025-09-16": {
+      "grand_total_seconds": 27944.299,
+      "languages": {
+        "TypeScript": 27196.678,
+        "CSS": 386.539,
+        "Other": 192.695,
+        "Bash": 79.588,
+        "YAML": 64.729,
+        "JSON": 24.07
+      }
+    },
+    "2025-09-17": {
+      "grand_total_seconds": 20133.244,
+      "languages": {
+        "TypeScript": 20133.244
+      }
+    },
+    "2025-09-18": {
+      "grand_total_seconds": 17633.231,
+      "languages": {
+        "TypeScript": 17496.317,
+        "Bash": 99.413,
+        "Other": 37.501
+      }
+    },
+    "2025-09-19": {
+      "grand_total_seconds": 5864.553,
+      "languages": {
+        "TypeScript": 5864.553
+      }
+    },
+    "2025-09-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-22": {
+      "grand_total_seconds": 16239.12,
+      "languages": {
+        "TypeScript": 16228.061,
+        "JSON": 11.059
+      }
+    },
+    "2025-09-23": {
+      "grand_total_seconds": 13353.745,
+      "languages": {
+        "TypeScript": 13063.626,
+        "Other": 243.243,
+        "JSON": 46.876
+      }
+    },
+    "2025-09-24": {
+      "grand_total_seconds": 17454.052,
+      "languages": {
+        "TypeScript": 17451.681,
+        "Other": 2.371
+      }
+    },
+    "2025-09-25": {
+      "grand_total_seconds": 19982.762,
+      "languages": {
+        "TypeScript": 19957.523,
+        "Other": 25.239
+      }
+    },
+    "2025-09-26": {
+      "grand_total_seconds": 129.876,
+      "languages": {
+        "TypeScript": 129.876
+      }
+    },
+    "2025-09-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-09-30": {
+      "grand_total_seconds": 4361.742,
+      "languages": {
+        "TypeScript": 4361.742
+      }
+    },
+    "2025-10-01": {
+      "grand_total_seconds": 24170.439,
+      "languages": {
+        "TypeScript": 24170.439
+      }
+    },
+    "2025-10-02": {
+      "grand_total_seconds": 19809.308,
+      "languages": {
+        "TypeScript": 19696.254,
+        "JSON": 108.302,
+        "Other": 4.752
+      }
+    },
+    "2025-10-03": {
+      "grand_total_seconds": 12863.622,
+      "languages": {
+        "TypeScript": 12838.861,
+        "CSS": 24.761
+      }
+    },
+    "2025-10-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-06": {
+      "grand_total_seconds": 15308.966,
+      "languages": {
+        "TypeScript": 15308.966
+      }
+    },
+    "2025-10-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-08": {
+      "grand_total_seconds": 23197.479,
+      "languages": {
+        "TypeScript": 22455.816,
+        "JSON": 509.497,
+        "CSS": 193.851,
+        "Other": 38.315
+      }
+    },
+    "2025-10-09": {
+      "grand_total_seconds": 17557.012,
+      "languages": {
+        "TypeScript": 17211.656,
+        "CSS": 345.356
+      }
+    },
+    "2025-10-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-11": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-15": {
+      "grand_total_seconds": 27280.48,
+      "languages": {
+        "TypeScript": 26967.456,
+        "CSS": 313.024
+      }
+    },
+    "2025-10-16": {
+      "grand_total_seconds": 8421.788,
+      "languages": {
+        "TypeScript": 8369.451,
+        "JSON": 29.1,
+        "CSS": 23.237
+      }
+    },
+    "2025-10-17": {
+      "grand_total_seconds": 13918.346,
+      "languages": {
+        "TypeScript": 13646.068,
+        "CSS": 270.475,
+        "Other": 1.803
+      }
+    },
+    "2025-10-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-20": {
+      "grand_total_seconds": 1108.203,
+      "languages": {
+        "TypeScript": 1108.203
+      }
+    },
+    "2025-10-21": {
+      "grand_total_seconds": 30539.455,
+      "languages": {
+        "Python": 11494.093,
+        "TypeScript": 8878.577,
+        "Bash": 6501.985,
+        "YAML": 2115.332,
+        "Text": 600.5,
+        "Other": 549.229,
+        "JSON": 366.329,
+        "Docker": 33.41
+      }
+    },
+    "2025-10-22": {
+      "grand_total_seconds": 30847.346,
+      "languages": {
+        "TypeScript": 29152.788,
+        "Python": 1497.94,
+        "JSON": 113.896,
+        "SCSS": 49.371,
+        "JavaScript": 33.351
+      }
+    },
+    "2025-10-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-24": {
+      "grand_total_seconds": 36771.079,
+      "languages": {
+        "TypeScript": 24486.658,
+        "Python": 12057.124,
+        "Bash": 227.297
+      }
+    },
+    "2025-10-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-10-27": {
+      "grand_total_seconds": 27678.031,
+      "languages": {
+        "Python": 14201.264,
+        "TypeScript": 13476.767
+      }
+    },
+    "2025-10-28": {
+      "grand_total_seconds": 8787.517,
+      "languages": {
+        "TypeScript": 8371.962,
+        "Python": 401.185,
+        "HTML": 14.37
+      }
+    },
+    "2025-10-29": {
+      "grand_total_seconds": 8619.583,
+      "languages": {
+        "TypeScript": 5021.352,
+        "YAML": 1995.425,
+        "Docker": 648.849,
+        "Python": 456.779,
+        "Other": 446.071,
+        "Bash": 42.461,
+        "Nginx configuration file": 7.494,
+        "Text": 1.152
+      }
+    },
+    "2025-10-30": {
+      "grand_total_seconds": 18820.249,
+      "languages": {
+        "Python": 13490.85,
+        "TypeScript": 4592.42,
+        "Other": 469.477,
+        "Bash": 267.323,
+        "YAML": 0.179
+      }
+    },
+    "2025-10-31": {
+      "grand_total_seconds": 3953.357,
+      "languages": {
+        "TypeScript": 1805.457,
+        "Python": 1452.159,
+        "YAML": 436.982,
+        "Nginx configuration file": 247.54,
+        "Docker": 10.364,
+        "Bash": 0.855
+      }
+    },
+    "2025-11-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-03": {
+      "grand_total_seconds": 10036.153,
+      "languages": {
+        "TypeScript": 4933.008,
+        "Python": 4586.531,
+        "Bash": 253.169,
+        "Text": 168.554,
+        "Other": 90.033,
+        "CSS": 4.858
+      }
+    },
+    "2025-11-04": {
+      "grand_total_seconds": 4235.815,
+      "languages": {
+        "TypeScript": 2267.847,
+        "Python": 1785.898,
+        "YAML": 161.754,
+        "Other": 16.393,
+        "Text": 3.923
+      }
+    },
+    "2025-11-05": {
+      "grand_total_seconds": 17378.703,
+      "languages": {
+        "TypeScript": 13304.742,
+        "Python": 3052.662,
+        "HTML": 348.261,
+        "Docker": 342.416,
+        "Bash": 216.968,
+        "Other": 50.711,
+        "Git Config": 33.006,
+        "SCSS": 28.644,
+        "YAML": 1.293
+      }
+    },
+    "2025-11-06": {
+      "grand_total_seconds": 14763.16,
+      "languages": {
+        "Python": 6967.725,
+        "TypeScript": 4980.357,
+        "Other": 2272.301,
+        "Docker": 334.466,
+        "CSS": 88.298,
+        "Bash": 54.296,
+        "JSON": 42.496,
+        "HTML": 23.221
+      }
+    },
+    "2025-11-07": {
+      "grand_total_seconds": 22179.838,
+      "languages": {
+        "TypeScript": 17453.88,
+        "Python": 4701.324,
+        "Other": 17.754,
+        "Bash": 6.88
+      }
+    },
+    "2025-11-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-09": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-11": {
+      "grand_total_seconds": 13038.273,
+      "languages": {
+        "TypeScript": 10225.157,
+        "Python": 1847.283,
+        "Docker": 663.889,
+        "Other": 144.01,
+        "HTML": 138.324,
+        "SCSS": 19.61
+      }
+    },
+    "2025-11-12": {
+      "grand_total_seconds": 661.326,
+      "languages": {
+        "Python": 661.326
+      }
+    },
+    "2025-11-13": {
+      "grand_total_seconds": 18906.732,
+      "languages": {
+        "TypeScript": 12188.001,
+        "Python": 5503.622,
+        "Other": 517.445,
+        "Nginx configuration file": 342.335,
+        "Bash": 336.109,
+        "JSON": 10.885,
+        "Image (svg)": 8.335
+      }
+    },
+    "2025-11-14": {
+      "grand_total_seconds": 12777.385,
+      "languages": {
+        "TypeScript": 11944.546,
+        "Python": 813.236,
+        "Other": 19.603
+      }
+    },
+    "2025-11-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-16": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-19": {
+      "grand_total_seconds": 27777.96,
+      "languages": {
+        "TypeScript": 22995.362,
+        "Python": 3309.662,
+        "CSS": 1307.985,
+        "Bash": 76.32,
+        "JSON": 64.264,
+        "YAML": 17.166,
+        "Other": 7.201
+      }
+    },
+    "2025-11-20": {
+      "grand_total_seconds": 20525.483,
+      "languages": {
+        "TypeScript": 13724.131,
+        "Python": 4481.842,
+        "Bash": 1408.869,
+        "CSS": 906.856,
+        "Other": 3.785
+      }
+    },
+    "2025-11-21": {
+      "grand_total_seconds": 16980.34,
+      "languages": {
+        "TypeScript": 15011.685,
+        "Python": 1249.364,
+        "JSON": 427.35,
+        "JavaScript": 147.844,
+        "Other": 74.422,
+        "Git": 69.675
+      }
+    },
+    "2025-11-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-24": {
+      "grand_total_seconds": 12641.092,
+      "languages": {
+        "TypeScript": 8614.907,
+        "Python": 4008.017,
+        "JSON": 13.617,
+        "HTML": 4.551
+      }
+    },
+    "2025-11-25": {
+      "grand_total_seconds": 18428.404,
+      "languages": {
+        "TypeScript": 16420.133,
+        "Python": 2008.271
+      }
+    },
+    "2025-11-26": {
+      "grand_total_seconds": 15194.612,
+      "languages": {
+        "TypeScript": 7188.489,
+        "Other": 4376.5,
+        "JSON": 2095.197,
+        "CSS": 686.513,
+        "JavaScript": 678.053,
+        "Bash": 143.94,
+        "Python": 20.063,
+        "TSConfig": 5.857
+      }
+    },
+    "2025-11-27": {
+      "grand_total_seconds": 19396.155,
+      "languages": {
+        "TypeScript": 18609.711,
+        "JSON": 546.113,
+        "Other": 206.214,
+        "Bash": 15.767,
+        "JavaScript": 11.317,
+        "Python": 5.36,
+        "CSS": 1.673
+      }
+    },
+    "2025-11-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-11-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-02": {
+      "grand_total_seconds": 6090.152,
+      "languages": {
+        "TypeScript": 2810.426,
+        "Python": 2240.823,
+        "Bash": 871.117,
+        "Other": 167.786
+      }
+    },
+    "2025-12-03": {
+      "grand_total_seconds": 9285.988,
+      "languages": {
+        "TypeScript": 9285.988
+      }
+    },
+    "2025-12-04": {
+      "grand_total_seconds": 24314.012,
+      "languages": {
+        "TypeScript": 21470.489,
+        "CSS": 2510.493,
+        "JSON": 212.724,
+        "MDX": 71.992,
+        "JavaScript": 38.704,
+        "Other": 4.505,
+        "YAML": 3.038,
+        "TSConfig": 2.067
+      }
+    },
+    "2025-12-05": {
+      "grand_total_seconds": 2058.0,
+      "languages": {
+        "Lua": 1028.0,
+        "TypeScript": 958.0,
+        "TOML": 58.0,
+        "gitignore": 14.0
+      }
+    },
+    "2025-12-06": {
+      "grand_total_seconds": 10195.0,
+      "languages": {
+        "TypeScript": 7353.0,
+        "JSON": 1126.0,
+        "CSS": 649.0,
+        "JavaScript": 515.0,
+        "Lua": 427.0,
+        "INI": 66.0,
+        "HTML": 52.0,
+        "TOML": 7.0
+      }
+    },
+    "2025-12-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-09": {
+      "grand_total_seconds": 22126.275,
+      "languages": {
+        "TypeScript": 20317.466,
+        "CSS": 1140.708,
+        "JavaScript": 316.444,
+        "JSON": 187.295,
+        "Other": 164.362
+      }
+    },
+    "2025-12-10": {
+      "grand_total_seconds": 9812.266,
+      "languages": {
+        "TypeScript": 9730.167,
+        "JSON": 44.887,
+        "CSS": 32.751,
+        "Other": 4.461
+      }
+    },
+    "2025-12-11": {
+      "grand_total_seconds": 19054.751,
+      "languages": {
+        "TypeScript": 18258.313,
+        "Other": 790.71,
+        "JSON": 5.728
+      }
+    },
+    "2025-12-12": {
+      "grand_total_seconds": 23368.386,
+      "languages": {
+        "TypeScript": 23184.068,
+        "CSS": 184.318
+      }
+    },
+    "2025-12-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-15": {
+      "grand_total_seconds": 15198.302,
+      "languages": {
+        "TypeScript": 14010.472,
+        "Bash": 664.849,
+        "Python": 522.981
+      }
+    },
+    "2025-12-16": {
+      "grand_total_seconds": 27490.92,
+      "languages": {
+        "TypeScript": 27186.053,
+        "JSON": 130.854,
+        "YAML": 115.948,
+        "Python": 58.065
+      }
+    },
+    "2025-12-17": {
+      "grand_total_seconds": 27454.228,
+      "languages": {
+        "TypeScript": 27392.844,
+        "Python": 36.345,
+        "JSON": 17.93,
+        "CSS": 6.001,
+        "TSConfig": 1.108
+      }
+    },
+    "2025-12-18": {
+      "grand_total_seconds": 15360.141,
+      "languages": {
+        "TypeScript": 15287.284,
+        "Other": 54.21,
+        "JSON": 16.193,
+        "HTML": 2.454
+      }
+    },
+    "2025-12-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-22": {
+      "grand_total_seconds": 5160.203,
+      "languages": {
+        "TypeScript": 5160.203
+      }
+    },
+    "2025-12-23": {
+      "grand_total_seconds": 21491.326,
+      "languages": {
+        "TypeScript": 20976.918,
+        "CSS": 465.52,
+        "YAML": 19.245,
+        "Other": 14.864,
+        "JSON": 14.779
+      }
+    },
+    "2025-12-24": {
+      "grand_total_seconds": 9322.548,
+      "languages": {
+        "TypeScript": 8519.028,
+        "JavaScript": 456.629,
+        "Python": 144.092,
+        "YAML": 138.686,
+        "JSON": 54.199,
+        "Docker": 8.508,
+        "Other": 1.406
+      }
+    },
+    "2025-12-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-26": {
+      "grand_total_seconds": 22268.313,
+      "languages": {
+        "TypeScript": 22234.022,
+        "YAML": 31.221,
+        "CSS": 3.07
+      }
+    },
+    "2025-12-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2025-12-29": {
+      "grand_total_seconds": 17294.496,
+      "languages": {
+        "TypeScript": 17294.496
+      }
+    },
+    "2025-12-30": {
+      "grand_total_seconds": 11039.802,
+      "languages": {
+        "TypeScript": 11039.802
+      }
+    },
+    "2025-12-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-05": {
+      "grand_total_seconds": 15165.241,
+      "languages": {
+        "TypeScript": 15165.241
+      }
+    },
+    "2026-01-06": {
+      "grand_total_seconds": 16829.209,
+      "languages": {
+        "TypeScript": 16829.209
+      }
+    },
+    "2026-01-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-08": {
+      "grand_total_seconds": 14070.266,
+      "languages": {
+        "TypeScript": 13309.766,
+        "CSS": 760.5
+      }
+    },
+    "2026-01-09": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-11": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-14": {
+      "grand_total_seconds": 11308.429,
+      "languages": {
+        "TypeScript": 11308.429
+      }
+    },
+    "2026-01-15": {
+      "grand_total_seconds": 14597.67,
+      "languages": {
+        "TypeScript": 14555.995,
+        "Python": 41.675
+      }
+    },
+    "2026-01-16": {
+      "grand_total_seconds": 18737.543,
+      "languages": {
+        "TypeScript": 18246.386,
+        "CSS": 491.157
+      }
+    },
+    "2026-01-17": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-19": {
+      "grand_total_seconds": 14664.506,
+      "languages": {
+        "TypeScript": 14664.506
+      }
+    },
+    "2026-01-20": {
+      "grand_total_seconds": 16501.199,
+      "languages": {
+        "TypeScript": 16501.199
+      }
+    },
+    "2026-01-21": {
+      "grand_total_seconds": 19491.765,
+      "languages": {
+        "TypeScript": 18710.127,
+        "CSS": 774.821,
+        "JSON": 6.817
+      }
+    },
+    "2026-01-22": {
+      "grand_total_seconds": 17675.546,
+      "languages": {
+        "TypeScript": 16123.394,
+        "Other": 1095.272,
+        "Nginx configuration file": 391.419,
+        "JSON": 23.779,
+        "Docker": 22.843,
+        "YAML": 18.839
+      }
+    },
+    "2026-01-23": {
+      "grand_total_seconds": 16898.681,
+      "languages": {
+        "TypeScript": 16888.626,
+        "JSON": 10.055
+      }
+    },
+    "2026-01-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-01-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-03": {
+      "grand_total_seconds": 22103.335,
+      "languages": {
+        "TypeScript": 22103.335
+      }
+    },
+    "2026-02-04": {
+      "grand_total_seconds": 12594.136,
+      "languages": {
+        "TypeScript": 12566.034,
+        "JSON": 28.102
+      }
+    },
+    "2026-02-05": {
+      "grand_total_seconds": 3933.913,
+      "languages": {
+        "Bash": 2110.92,
+        "TypeScript": 1132.914,
+        "Text": 680.669,
+        "JSON": 9.41
+      }
+    },
+    "2026-02-06": {
+      "grand_total_seconds": 17739.56,
+      "languages": {
+        "TypeScript": 15204.499,
+        "Bash": 1614.639,
+        "Other": 916.462,
+        "Text": 3.96
+      }
+    },
+    "2026-02-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-09": {
+      "grand_total_seconds": 18201.686,
+      "languages": {
+        "TypeScript": 17819.528,
+        "CSV": 270.047,
+        "Python": 100.669,
+        "Text": 4.48,
+        "HTML": 2.822,
+        "Bash": 2.567,
+        "Other": 1.573
+      }
+    },
+    "2026-02-10": {
+      "grand_total_seconds": 12948.569,
+      "languages": {
+        "Python": 11485.677,
+        "TypeScript": 1301.697,
+        "JSON": 85.228,
+        "Bash": 50.097,
+        "Other": 25.87
+      }
+    },
+    "2026-02-11": {
+      "grand_total_seconds": 482.368,
+      "languages": {
+        "TypeScript": 435.15,
+        "Other": 47.218
+      }
+    },
+    "2026-02-12": {
+      "grand_total_seconds": 23854.922,
+      "languages": {
+        "TypeScript": 21734.841,
+        "Python": 1313.201,
+        "Bash": 793.979,
+        "Other": 12.901
+      }
+    },
+    "2026-02-13": {
+      "grand_total_seconds": 22693.42,
+      "languages": {
+        "TypeScript": 17327.967,
+        "Python": 4848.992,
+        "Text": 327.467,
+        "Other": 180.769,
+        "JSON": 7.679,
+        "Bash": 0.546
+      }
+    },
+    "2026-02-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-16": {
+      "grand_total_seconds": 11173.146,
+      "languages": {
+        "TypeScript": 8415.913,
+        "Python": 2420.309,
+        "Text": 141.266,
+        "JSON": 136.411,
+        "Other": 29.356,
+        "CSS": 28.479,
+        "TSConfig": 1.412
+      }
+    },
+    "2026-02-17": {
+      "grand_total_seconds": 12420.355,
+      "languages": {
+        "TypeScript": 9445.176,
+        "Other": 1967.056,
+        "Text": 749.993,
+        "Bash": 152.159,
+        "SCSS": 102.322,
+        "JSON": 3.649
+      }
+    },
+    "2026-02-18": {
+      "grand_total_seconds": 16581.045,
+      "languages": {
+        "TypeScript": 16320.214,
+        "SCSS": 166.178,
+        "Other": 70.168,
+        "JSON": 24.485
+      }
+    },
+    "2026-02-19": {
+      "grand_total_seconds": 26619.194,
+      "languages": {
+        "TypeScript": 26531.492,
+        "JSON": 78.757,
+        "SCSS": 6.616,
+        "TSConfig": 1.908,
+        "Other": 0.421
+      }
+    },
+    "2026-02-20": {
+      "grand_total_seconds": 29753.827,
+      "languages": {
+        "TypeScript": 28848.372,
+        "Python": 374.939,
+        "Bash": 284.844,
+        "Other": 148.0,
+        "JSON": 75.97,
+        "YAML": 15.429,
+        "SCSS": 6.273
+      }
+    },
+    "2026-02-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-23": {
+      "grand_total_seconds": 18551.813,
+      "languages": {
+        "TypeScript": 17749.3,
+        "JSON": 799.692,
+        "TSConfig": 2.821
+      }
+    },
+    "2026-02-24": {
+      "grand_total_seconds": 5564.383,
+      "languages": {
+        "TypeScript": 5557.46,
+        "Other": 5.175,
+        "JSON": 1.748
+      }
+    },
+    "2026-02-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-02-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-06": {
+      "grand_total_seconds": 6096.0,
+      "languages": {
+        "TypeScript": 4028.0,
+        "Lua": 1781.0,
+        "kitty": 287.0
+      }
+    },
+    "2026-03-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-08": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-09": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-10": {
+      "grand_total_seconds": 26217.0,
+      "languages": {
+        "TypeScript": 26214.0,
+        "gitignore": 3.0
+      }
+    },
+    "2026-03-11": {
+      "grand_total_seconds": 16297.0,
+      "languages": {
+        "TypeScript": 12961.0,
+        "Go": 1745.0,
+        "YAML": 1238.0,
+        "SQL": 353.0
+      }
+    },
+    "2026-03-12": {
+      "grand_total_seconds": 26446.0,
+      "languages": {
+        "TypeScript": 9619.0,
+        "Go": 7998.0,
+        "Markdown": 2268.0,
+        "SQL": 2182.0,
+        "kitty": 1615.0,
+        "Bash": 1504.0,
+        "sh": 650.0,
+        "YAML": 358.0,
+        "Text": 209.0,
+        "Makefile": 40.0,
+        "gitignore": 3.0
+      }
+    },
+    "2026-03-13": {
+      "grand_total_seconds": 25008.0,
+      "languages": {
+        "TypeScript": 18483.0,
+        "Go": 6337.0,
+        "sh": 134.0,
+        "Markdown": 51.0,
+        "SQL": 3.0
+      }
+    },
+    "2026-03-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-16": {
+      "grand_total_seconds": 24680.0,
+      "languages": {
+        "Go": 17629.0,
+        "TypeScript": 3508.0,
+        "kitty": 2154.0,
+        "Bash": 847.0,
+        "Lua": 510.0,
+        "YAML": 32.0
+      }
+    },
+    "2026-03-17": {
+      "grand_total_seconds": 25328.0,
+      "languages": {
+        "TypeScript": 12892.0,
+        "Go": 12285.0,
+        "Makefile": 93.0,
+        "JSON": 45.0,
+        "Bash": 11.0,
+        "Image (svg)": 2.0
+      }
+    },
+    "2026-03-18": {
+      "grand_total_seconds": 20761.0,
+      "languages": {
+        "TypeScript": 9979.0,
+        "Python": 6273.0,
+        "Go": 1986.0,
+        "Bash": 1257.0,
+        "sh": 525.0,
+        "Text": 306.0,
+        "Lua": 286.0,
+        "kitty": 78.0,
+        "JSON": 41.0,
+        "TSConfig": 20.0,
+        "Other": 5.0,
+        "Docker": 5.0
+      }
+    },
+    "2026-03-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-21": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-22": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-23": {
+      "grand_total_seconds": 24717.0,
+      "languages": {
+        "Python": 22478.0,
+        "JSON": 1976.0,
+        "TypeScript": 213.0,
+        "Other": 50.0
+      }
+    },
+    "2026-03-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-25": {
+      "grand_total_seconds": 26895.0,
+      "languages": {
+        "TypeScript": 26135.0,
+        "Python": 544.0,
+        "sh": 216.0
+      }
+    },
+    "2026-03-26": {
+      "grand_total_seconds": 22951.0,
+      "languages": {
+        "TypeScript": 22841.0,
+        "Docker": 41.0,
+        "JSON": 34.0,
+        "CSS": 15.0,
+        "Diff": 13.0,
+        "Image (svg)": 5.0,
+        "Other": 2.0
+      }
+    },
+    "2026-03-27": {
+      "grand_total_seconds": 23183.0,
+      "languages": {
+        "Python": 18165.0,
+        "TOML": 2974.0,
+        "JSON": 1594.0,
+        "TypeScript": 279.0,
+        "Bash": 171.0
+      }
+    },
+    "2026-03-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-03-30": {
+      "grand_total_seconds": 23034.63,
+      "languages": {
+        "Python": 22927.151,
+        "JSON": 48.88,
+        "Other": 23.754,
+        "TOML": 13.261,
+        "YAML": 12.843,
+        "Bash": 8.741
+      }
+    },
+    "2026-03-31": {
+      "grand_total_seconds": 27854.0,
+      "languages": {
+        "Python": 27392.0,
+        "Docker": 457.0,
+        "Other": 5.0
+      }
+    },
+    "2026-04-01": {
+      "grand_total_seconds": 20358.0,
+      "languages": {
+        "Python": 19380.0,
+        "TOML": 375.0,
+        "Other": 322.0,
+        "Go": 281.0
+      }
+    },
+    "2026-04-02": {
+      "grand_total_seconds": 27013.0,
+      "languages": {
+        "Python": 15425.0,
+        "TypeScript": 11284.0,
+        "JSON": 265.0,
+        "sh": 20.0,
+        "Bash": 14.0,
+        "Other": 5.0
+      }
+    },
+    "2026-04-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-05": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-06": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-07": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-08": {
+      "grand_total_seconds": 29420.0,
+      "languages": {
+        "Python": 25560.0,
+        "TypeScript": 3692.0,
+        "Bash": 160.0,
+        "Other": 8.0
+      }
+    },
+    "2026-04-09": {
+      "grand_total_seconds": 23458.0,
+      "languages": {
+        "TypeScript": 23414.0,
+        "conf": 44.0
+      }
+    },
+    "2026-04-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-11": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-13": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-14": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-15": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-16": {
+      "grand_total_seconds": 25090.0,
+      "languages": {
+        "Python": 15611.0,
+        "TypeScript": 9473.0,
+        "Other": 6.0
+      }
+    },
+    "2026-04-17": {
+      "grand_total_seconds": 24320.0,
+      "languages": {
+        "TypeScript": 19663.0,
+        "Python": 4346.0,
+        "Bash": 308.0,
+        "Other": 3.0
+      }
+    },
+    "2026-04-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-04-20": {
+      "grand_total_seconds": 28840.0,
+      "languages": {
+        "TypeScript": 27159.0,
+        "Python": 1177.0,
+        "sh": 277.0,
+        "JSON": 226.0,
+        "Other": 1.0
+      }
+    },
+    "2026-04-21": {
+      "grand_total_seconds": 29883.0,
+      "languages": {
+        "TypeScript": 29883.0
+      }
+    },
+    "2026-04-22": {
+      "grand_total_seconds": 29437.0,
+      "languages": {
+        "TypeScript": 29417.0,
+        "Other": 20.0
+      }
+    },
+    "2026-04-23": {
+      "grand_total_seconds": 12176.0,
+      "languages": {
+        "TypeScript": 8305.0,
+        "Python": 3870.0,
+        "Other": 1.0
+      }
+    },
+    "2026-04-24": {
+      "grand_total_seconds": 2430.0,
+      "languages": {
+        "Bash": 1532.0,
+        "Lua": 877.0,
+        "JSON": 11.0,
+        "TOML": 10.0
+      }
+    },
+    "2026-04-25": {
+      "grand_total_seconds": 21823.0,
+      "languages": {
+        "Python": 17108.999997,
+        "Lua": 1712.0,
+        "hyprlang": 1079.000001,
+        "Markdown": 610.000001,
+        "Bash": 484.000001,
+        "kitty": 402.0,
+        "TypeScript": 250.0,
+        "JSON": 165.0,
+        "Bru": 12.0
+      }
+    },
+    "2026-04-26": {
+      "grand_total_seconds": 6185.000001,
+      "languages": {
+        "TypeScript": 5060.000001,
+        "JSON": 528.0,
+        "Python": 344.0,
+        "AGS Script": 192.0,
+        "sh": 61.0
+      }
+    },
+    "2026-04-27": {
+      "grand_total_seconds": 10737.000011,
+      "languages": {
+        "hyprlang": 4989.000008,
+        "kitty": 3311.000003,
+        "Lua": 2437.0
+      }
+    },
+    "2026-04-28": {
+      "grand_total_seconds": 28686.0,
+      "languages": {
+        "Python": 28686.0
+      }
+    },
+    "2026-04-29": {
+      "grand_total_seconds": 24316.0,
+      "languages": {
+        "Python": 24220.0,
+        "Text": 78.0,
+        "Bash": 18.0
+      }
+    },
+    "2026-04-30": {
+      "grand_total_seconds": 14648.0,
+      "languages": {
+        "TypeScript": 9262.0,
+        "Python": 4731.0,
+        "Bash": 638.0,
+        "sh": 17.0
+      }
+    },
+    "2026-05-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-05-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-05-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-05-04": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-05-05": {
+      "grand_total_seconds": 6886.0,
+      "languages": {
+        "Python": 5523.0,
+        "Bash": 1091.0,
+        "sysctl": 272.0
+      }
+    },
+    "2026-05-06": {
+      "grand_total_seconds": 14277.000001,
+      "languages": {
+        "Python": 7610.0,
+        "TypeScript": 2096.0,
+        "JSON": 1473.0,
+        "TOML": 1378.0,
+        "Bru": 1322.0,
+        "kitty": 398.000001
+      }
+    },
+    "2026-05-07": {
+      "grand_total_seconds": 14164.0,
+      "languages": {
+        "TypeScript": 14047.0,
+        "JavaScript": 110.0,
+        "JSON": 7.0
+      }
+    },
+    "2026-05-08": {
+      "grand_total_seconds": 8514.0,
+      "languages": {
+        "TypeScript": 8514.0
+      }
+    },
+    "2026-05-09": {
+      "grand_total_seconds": 19392.0,
+      "languages": {
+        "Go": 14152.999986,
+        "Makefile": 3536.999998,
+        "Bash": 672.000011,
+        "YAML": 525.000001,
+        "sh": 284.000001,
+        "Terraform": 151.000001,
+        "TOML": 70.000002
+      }
+    },
+    "2026-05-10": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-05-11": {
+      "grand_total_seconds": 31362.0,
+      "languages": {
+        "TypeScript": 21989.999998,
+        "Python": 8298.0,
+        "Bash": 927.0,
+        "sh": 111.0,
+        "env": 35.000001,
+        "Other": 1.000001
+      }
+    },
+    "2026-05-12": {
+      "grand_total_seconds": 34707.0,
+      "languages": {
+        "TypeScript": 18020.999999,
+        "Python": 13756.0,
+        "Bash": 1576.0,
+        "CSS": 1112.0,
+        "YAML": 233.0,
+        "sh": 5.0,
+        "Image (svg)": 3.0,
+        "Other": 1.000001
+      }
+    },
+    "2026-05-13": {
+      "grand_total_seconds": 36188.000001,
+      "languages": {
+        "TypeScript": 34131.999999,
+        "Python": 1875.000001,
+        "Bash": 102.0,
+        "sh": 74.000001,
+        "JSON": 5.0
+      }
+    },
+    "2026-05-14": {
+      "grand_total_seconds": 27643.0,
+      "languages": {
+        "TypeScript": 27207.000001,
+        "env": 435.999999
+      }
+    },
+    "2026-05-15": {
+      "grand_total_seconds": 1993.000001,
+      "languages": {
+        "TypeScript": 1110.000001,
+        "hyprlang": 856.0,
+        "env": 27.0
+      }
+    },
+    "2026-05-16": {
+      "grand_total_seconds": 29288.000004,
+      "languages": {
+        "Python": 26358.000004,
+        "Bash": 2001.000001,
+        "TypeScript": 928.999999
+      }
+    },
+    "2026-05-17": {
+      "grand_total_seconds": 52089.000002,
+      "languages": {
+        "TypeScript": 41462.999996,
+        "Python": 9748.0,
+        "HTML": 807.999999,
+        "JSON": 43.000004,
+        "env": 27.000003
+      }
+    },
+    "2026-05-18": {
+      "grand_total_seconds": 22392.000002,
+      "languages": {
+        "TypeScript": 15800.999997,
+        "Python": 4766.000004,
+        "TOML": 720.000001,
+        "sh": 565.0,
+        "Bash": 539.0,
+        "JSON": 1.0
+      }
+    },
+    "2026-05-19": {
+      "grand_total_seconds": 7716.000002,
+      "languages": {
+        "Markdown": 4241.999998,
+        "Python": 2785.000004,
+        "TypeScript": 626.0,
+        "Bash": 63.0
+      }
+    },
+    "2026-05-20": {
+      "grand_total_seconds": 22102.000001,
+      "languages": {
+        "TypeScript": 16835.999997,
+        "Python": 4768.000008,
+        "Bash": 323.0,
+        "CSS": 159.999995,
+        "JSON": 15.000001
+      }
+    },
+    "2026-05-21": {
+      "grand_total_seconds": 23507.999999,
+      "languages": {
+        "Python": 12474.000002,
+        "TypeScript": 10070.999997,
+        "Docker": 517.0,
+        "Bash": 446.0
+      }
+    },
+    "2026-05-22": {
+      "grand_total_seconds": 19802.0,
+      "languages": {
+        "Python": 17603.0,
+        "TypeScript": 2091.0,
+        "Bash": 108.0
+      }
+    },
+    "2026-05-23": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-05-24": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-05-25": {
+      "grand_total_seconds": 18938.0,
+      "languages": {
+        "Lua": 9547.000001,
+        "Python": 8820.0,
+        "Other": 268.999999,
+        "TypeScript": 217.0,
+        "Bash": 85.0
+      }
+    },
+    "2026-05-26": {
+      "grand_total_seconds": 22021.999999,
+      "languages": {
+        "Python": 13759.000006,
+        "TypeScript": 8259.999992,
+        "Bash": 3.000001
+      }
+    },
+    "2026-05-27": {
+      "grand_total_seconds": 19431.999999,
+      "languages": {
+        "TypeScript": 16844.999996,
+        "Python": 2126.999999,
+        "Bash": 460.000004
+      }
+    },
+    "2026-05-28": {
+      "grand_total_seconds": 18116.000002,
+      "languages": {
+        "Python": 17306.999999,
+        "Bash": 613.999999,
+        "Markdown": 119.000001,
+        "sh": 40.000002,
+        "YAML": 33.0,
+        "Bru": 3.000001
+      }
+    },
+    "2026-05-29": {
+      "grand_total_seconds": 16948.0,
+      "languages": {
+        "TypeScript": 9910.000004,
+        "Python": 5073.0,
+        "CSS": 1389.999995,
+        "YAML": 575.000001
+      }
+    },
+    "2026-05-30": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-05-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-06-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-06-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-06-03": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-06-04": {
+      "grand_total_seconds": 20326.999995,
+      "languages": {
+        "TypeScript": 11839.999996,
+        "Python": 8462.999997,
+        "Docker": 24.000002
+      }
+    },
+    "2026-06-05": {
+      "grand_total_seconds": 10267.999998,
+      "languages": {
+        "Python": 8151.999995,
+        "TypeScript": 1987.000003,
+        "Text": 129.0
+      }
+    },
+    "2026-06-06": {
+      "grand_total_seconds": 19765.000005,
+      "languages": {
+        "TypeScript": 15269.000002,
+        "Python": 2804.000004,
+        "Markdown": 893.0,
+        "Lua": 543.0,
+        "env": 253.999997,
+        "CSS": 1.000001,
+        "Other": 1.000001
+      }
+    },
+    "2026-06-07": {
+      "grand_total_seconds": 23529.000005,
+      "languages": {
+        "Python": 13578.999998,
+        "TypeScript": 9944.000003,
+        "Bash": 6.000004
+      }
+    },
+    "2026-06-08": {
+      "grand_total_seconds": 21654.000002,
+      "languages": {
+        "Python": 19806.000001,
+        "Docker": 517.0,
+        "TypeScript": 493.000006,
+        "Bash": 332.000001,
+        "sh": 305.999994,
+        "Markdown": 200.0
+      }
+    },
+    "2026-06-09": {
+      "grand_total_seconds": 8260.999998,
+      "languages": {
+        "Python": 6139.999994,
+        "TypeScript": 1619.999998,
+        "sh": 289.000003,
+        "Bash": 212.000003
+      }
+    },
+    "2026-06-10": {
+      "grand_total_seconds": 12050.000006,
+      "languages": {
+        "TypeScript": 5366.999998,
+        "Python": 4920.000004,
+        "Markdown": 1761.000003,
+        "sh": 2.000001
+      }
+    },
+    "2026-06-11": {
+      "grand_total_seconds": 9178.0,
+      "languages": {
+        "Markdown": 4707.999997,
+        "Python": 3537.000006,
+        "Bash": 873.0,
+        "TypeScript": 56.999996,
+        "pdf": 3.000001
+      }
+    },
+    "2026-06-12": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-06-13": {
+      "grand_total_seconds": 4079.0,
+      "languages": {
+        "Python": 3355.000004,
+        "Bash": 605.999998,
+        "Markdown": 103.000001,
+        "TOML": 14.999997
+      }
+    },
+    "2026-06-14": {
+      "grand_total_seconds": 5673.0,
+      "languages": {
+        "Python": 3831.999996,
+        "hyprlang": 1474.0,
+        "Bash": 180.000002,
+        "QML": 176.0,
+        "Markdown": 11.000002
+      }
+    },
+    "2026-06-15": {
+      "grand_total_seconds": 13621.000005,
+      "languages": {
+        "Python": 11770.999998,
+        "Bash": 1826.000005,
+        "TOML": 24.000002
+      }
+    },
+    "2026-06-16": {
+      "grand_total_seconds": 29839.999999,
+      "languages": {
+        "Python": 25983.999996,
+        "Markdown": 3856.000003
+      }
+    },
+    "2026-06-17": {
+      "grand_total_seconds": 29226.000001,
+      "languages": {
+        "Python": 23943.000008,
+        "TypeScript": 3910.999997,
+        "Markdown": 1179.0,
+        "Bash": 188.999995,
+        "bigfile": 4.000001
+      }
+    },
+    "2026-06-18": {
+      "grand_total_seconds": 6844.000001,
+      "languages": {
+        "Python": 4160.999995,
+        "TypeScript": 1532.000001,
+        "Bash": 731.000002,
+        "Docker": 420.000003
+      }
+    },
+    "2026-06-19": {
+      "grand_total_seconds": 9553.999994,
+      "languages": {
+        "Python": 7359.99999,
+        "TypeScript": 2192.000002,
+        "Markdown": 2.000002
+      }
+    },
+    "2026-06-20": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-06-21": {
+      "grand_total_seconds": 245.000001,
+      "languages": {
+        "Lua": 245.000001
+      }
+    },
+    "2026-06-22": {
+      "grand_total_seconds": 24485.000006,
+      "languages": {
+        "Python": 12354.999996,
+        "TypeScript": 12117.0,
+        "Markdown": 13.000009,
+        "JSON": 1e-06
+      }
+    },
+    "2026-06-23": {
+      "grand_total_seconds": 23561.999999,
+      "languages": {
+        "Python": 18478.999996,
+        "TypeScript": 5025.000003,
+        "Bash": 58.0
+      }
+    },
+    "2026-06-24": {
+      "grand_total_seconds": 32539.000001,
+      "languages": {
+        "Python": 19560.999995,
+        "TypeScript": 10094.999998,
+        "JSON": 2214.000008,
+        "Bash": 669.0
+      }
+    },
+    "2026-06-25": {
+      "grand_total_seconds": 17784.999998,
+      "languages": {
+        "Python": 16427.999995,
+        "Docker": 757.000002,
+        "TypeScript": 600.000001
+      }
+    },
+    "2026-06-26": {
+      "grand_total_seconds": 19873.000001,
+      "languages": {
+        "Python": 18316.999989,
+        "Bash": 1406.000012,
+        "Docker": 119.000002,
+        "Markdown": 19.000001,
+        "TypeScript": 10.0,
+        "Other": 1.999997
+      }
+    },
+    "2026-06-27": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-06-28": {
+      "grand_total_seconds": 11460.999999,
+      "languages": {
+        "Python": 11460.999999
+      }
+    },
+    "2026-06-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-06-30": {
+      "grand_total_seconds": 20841.999999,
+      "languages": {
+        "Python": 10935.999988,
+        "YAML": 5352.000001,
+        "TypeScript": 2431.000001,
+        "Bash": 1518.000001,
+        "Docker": 602.000007,
+        "sh": 3.000001
+      }
+    },
+    "2026-07-01": {
+      "grand_total_seconds": 9811.000006,
+      "languages": {
+        "Python": 7161.00001,
+        "TypeScript": 2649.999996
+      }
+    },
+    "2026-07-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-07-03": {
+      "grand_total_seconds": 16565.999995,
+      "languages": {
+        "Python": 14766.999994,
+        "TypeScript": 1773.999999,
+        "Markdown": 24.000001,
+        "Docker": 1.000001
+      }
+    },
+    "2026-07-04": {
+      "grand_total_seconds": 14251.000004,
+      "languages": {
+        "Python": 12195.000005,
+        "TypeScript": 1771.999998,
+        "Bash": 284.000001
+      }
+    },
+    "2026-07-05": {
+      "grand_total_seconds": 7075.000014,
+      "languages": {
+        "Python": 5137.00001,
+        "Bash": 911.999999,
+        "TypeScript": 371.000006,
+        "CSV": 363.000001,
+        "JSON": 287.0,
+        "Other": 4.999998
+      }
+    },
+    "2026-07-06": {
+      "grand_total_seconds": 18142.0,
+      "languages": {
+        "Python": 17034.000006,
+        "TypeScript": 949.999993,
+        "Bash": 158.000001
+      }
+    },
+    "2026-07-07": {
+      "grand_total_seconds": 23716.000004,
+      "languages": {
+        "Python": 18332.000007,
+        "TypeScript": 5197.999996,
+        "Bash": 186.000001
+      }
+    },
+    "2026-07-08": {
+      "grand_total_seconds": 12942.000011,
+      "languages": {
+        "Python": 10248.999996,
+        "TypeScript": 2693.000015
+      }
+    },
+    "2026-07-09": {
+      "grand_total_seconds": 5106.000001,
+      "languages": {
+        "Python": 4196.000002,
+        "TypeScript": 903.999998,
+        "Bash": 6.000001
+      }
+    },
+    "2026-07-10": {
+      "grand_total_seconds": 8483.000001,
+      "languages": {
+        "TypeScript": 4576.000005,
+        "Python": 3906.999996
+      }
+    },
+    "2026-07-11": {
+      "grand_total_seconds": 14210.000001,
+      "languages": {
+        "TypeScript": 9936.000001,
+        "Python": 4274.0
+      }
+    },
+    "2026-07-12": {
+      "grand_total_seconds": 4820.000001,
+      "languages": {
+        "TypeScript": 3578.000003,
+        "Python": 1241.999998
+      }
+    },
+    "2026-07-13": {
+      "grand_total_seconds": 16126.000007,
+      "languages": {
+        "Python": 6723.000001,
+        "C#": 4917.999999,
+        "JSON": 1897.000006,
+        "TypeScript": 1017.0,
+        "JavaScript": 685.000004,
+        "HTTP": 593.999998,
+        "HTML": 154.999994,
+        "Bash": 124.0,
+        "XML": 11.000003,
+        "Prolog": 2.000001,
+        "Binary": 1e-06
+      }
+    },
+    "2026-07-14": {
+      "grand_total_seconds": 29741.000004,
+      "languages": {
+        "Python": 15280.000005,
+        "TypeScript": 11996.999998,
+        "C#": 2461.0,
+        "JSON": 3.000001
+      }
+    },
+    "2026-07-15": {
+      "grand_total_seconds": 15686.000006,
+      "languages": {
+        "Python": 11238.000006,
+        "TypeScript": 4448.0
+      }
+    },
+    "2026-07-16": {
+      "grand_total_seconds": 10095.999997,
+      "languages": {
+        "TypeScript": 4075.999998,
+        "Python": 3309.000001,
+        "Lua": 1820.999997,
+        "kitty": 745.999998,
+        "Markdown": 144.000003
+      }
+    },
+    "2026-07-17": {
+      "grand_total_seconds": 10340.000001,
+      "languages": {
+        "TypeScript": 7112.000001,
+        "Python": 3228.0
+      }
+    },
+    "2026-07-18": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-07-19": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-07-20": {
+      "grand_total_seconds": 8726.0,
+      "languages": {
+        "Go": 7041.999999,
+        "Python": 1296.999998,
+        "TypeScript": 231.000002,
+        "Makefile": 156.000001
+      }
+    },
+    "2026-07-21": {
+      "grand_total_seconds": 19605.999997,
+      "languages": {
+        "TypeScript": 15076.999998,
+        "Python": 4528.999999
+      }
+    },
+    "2026-07-22": {
+      "grand_total_seconds": 13239.000001,
+      "languages": {
+        "Python": 7662.000003,
+        "TypeScript": 5576.999998
+      }
+    },
+    "2026-07-23": {
+      "grand_total_seconds": 7419.999997,
+      "languages": {
+        "Go": 3737.000006,
+        "Makefile": 2364.999991,
+        "TypeScript": 905.999999,
+        "Python": 268.999999,
+        "SQL": 116.0,
+        "hercules": 27.000002
+      }
+    },
+    "2026-07-24": {
+      "grand_total_seconds": 5261.000005,
+      "languages": {
+        "Go": 2261.000008,
+        "Python": 1355.999999,
+        "Makefile": 1189.999994,
+        "SQL": 227.0,
+        "Markdown": 89.0,
+        "Docker": 74.999998,
+        "TypeScript": 53.000003,
+        "Bash": 7.000001,
+        "Nginx configuration file": 3.000002
+      }
+    },
+    "2026-07-25": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-07-26": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-07-27": {
+      "grand_total_seconds": 22133.000003,
+      "languages": {
+        "TypeScript": 19132.999987,
+        "JSON": 2323.00001,
+        "JavaScript": 268.000003,
+        "CSS": 199.000006,
+        "sh": 165.999999,
+        "Image (svg)": 43.999998
+      }
+    },
+    "2026-07-28": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-07-29": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-07-30": {
+      "grand_total_seconds": 24423.000006,
+      "languages": {
+        "TypeScript": 21997.999999,
+        "CSS": 1039.000005,
+        "JSON": 783.000001,
+        "TSConfig": 603.000001
+      }
+    },
+    "2026-07-31": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-08-01": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-08-02": {
+      "grand_total_seconds": 0.0,
+      "languages": {}
+    },
+    "2026-08-03": {
+      "grand_total_seconds": 18753.000002,
+      "languages": {
+        "TypeScript": 13600.999993,
+        "JSON": 5051.999999,
+        "CSS": 100.00001
+      }
+    },
+    "2026-08-04": {
+      "grand_total_seconds": 20023.0,
+      "languages": {
+        "TypeScript": 8984.000004,
+        "Python": 5293.999996,
+        "YAML": 2981.999999,
+        "sh": 1841.0,
+        "Nginx configuration file": 832.0,
+        "Bash": 66.0,
+        "Makefile": 24.000001
+      }
+    },
+    "2026-08-05": {
+      "grand_total_seconds": 9199.000003,
+      "languages": {
+        "TypeScript": 4567.000002,
+        "Python": 3902.000001,
+        "Bash": 730.0
+      }
+    },
+    "2026-08-06": {
+      "grand_total_seconds": 19549.000002,
+      "languages": {
+        "Python": 6973.999997,
+        "Bash": 6546.999992,
+        "TypeScript": 2616.999999,
+        "sh": 1853.000006,
+        "Go": 1027.000001,
+        "YAML": 163.000002,
+        "Makefile": 156.0,
+        "JSON": 102.000004,
+        "Lua": 74.0,
+        "Other": 36.000001
+      }
+    },
+    "2026-08-07": {
+      "grand_total_seconds": 12837.000004,
+      "languages": {
+        "Bash": 5259.0,
+        "Python": 2405.0,
+        "YAML": 1911.0,
+        "Go": 1077.000003,
+        "sh": 821.999998,
+        "Makefile": 742.999999,
+        "Markdown": 470.000003,
+        "Docker": 150.000001
+      }
+    },
+    "2026-08-08": {
+      "grand_total_seconds": 347.000001,
+      "languages": {
+        "YAML": 347.000001
+      }
+    }
+  },
+  "last_updated": "2026-08-08"
+}
