@@ -43,18 +43,18 @@
 ```txt
 From: 29 February 2024 - To: 23 September 2026
 
-Total Time: 2,648 hrs 12 mins
+Total Time: 2,650 hrs 48 mins
 
-TypeScript                 2,171 hrs 55 mins     █████████████████████░░░░   82.02 %
-Python                     297 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+TypeScript                 2,172 hrs 07 mins     ████████████████████▓░░░░   81.94 %
+Python                     299 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 %
 Go                         38 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 Bash                       21 hrs 06 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 SCSS                       13 hrs 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 Other                      11 hrs 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 JavaScript                 8 hrs 16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-YAML                       7 hrs 49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Markdown                   6 hrs 29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-CSS                        6 hrs 19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+YAML                       7 hrs 49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown                   6 hrs 29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Lua                        6 hrs 24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
