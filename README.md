@@ -43,12 +43,12 @@
 ```txt
 From: 29 February 2024 - To: 24 September 2026
 
-Total Time: 2,654 hrs 06 mins
+Total Time: 2,655 hrs 19 mins
 
-TypeScript                 2,172 hrs 31 mins     ████████████████████▓░░░░   81.86 %
-Python                     302 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+TypeScript                 2,172 hrs 36 mins     ████████████████████▓░░░░   81.82 %
+Python                     304 hrs 00 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
 Go                         38 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Bash                       21 hrs 06 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Bash                       21 hrs 06 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 SCSS                       13 hrs 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 Other                      11 hrs 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 JavaScript                 8 hrs 16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
