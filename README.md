@@ -43,18 +43,18 @@
 ```txt
 From: 29 February 2024 - To: 05 October 2026
 
-Total Time: 2,675 hrs 30 mins
+Total Time: 2,678 hrs 09 mins
 
-TypeScript                 2,182 hrs 40 mins     ████████████████████▓░░░░   81.58 %
-Python                     312 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+TypeScript                 2,184 hrs 57 mins     ████████████████████▓░░░░   81.58 %
+Python                     312 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
 Go                         38 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 Bash                       21 hrs 57 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 SCSS                       13 hrs 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 Other                      11 hrs 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 JavaScript                 8 hrs 16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 YAML                       7 hrs 49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+CSS                        6 hrs 37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 Markdown                   6 hrs 29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Lua                        6 hrs 24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
