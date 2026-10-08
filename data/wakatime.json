@@ -6140,15 +6140,19 @@
     "2026-10-07": {
       "grand_total_seconds": 17400.999994,
       "languages": {
-        "TypeScript": 16782.999994,
+        "TypeScript": 16688.999992,
         "Python": 615.999999,
+        "Bash": 94.000002,
         "sh": 2.000001
       }
     },
     "2026-10-08": {
-      "grand_total_seconds": 5487.999998,
+      "grand_total_seconds": 15462.000007,
       "languages": {
-        "TypeScript": 5486.999997,
+        "TypeScript": 12549.000004,
+        "Python": 1559.000003,
+        "kitty": 1141.0,
+        "Bash": 211.999999,
         "sh": 1.000001
       }
     }
